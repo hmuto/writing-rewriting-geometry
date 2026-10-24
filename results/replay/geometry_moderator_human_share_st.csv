@@ -1,0 +1,86 @@
+moderator,genre,prompt,n,cond,mod_value,deff,leak,oor
+human_share,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",54,control,,27.501131057739258,0.0,0.0
+human_share,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",54,Q1 (low),0.30813311144193495,29.49211883544922,0.049457623408390924,0.0
+human_share,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",54,Q2,0.6126049580901555,25.85536003112793,0.025437364211449258,0.0
+human_share,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",54,Q3,0.7668140916708459,28.207094192504883,0.04162157498873197,0.0
+human_share,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",54,Q4 (high),0.9111934688405277,27.150287628173828,0.03747442593941322,0.0
+human_share,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,52,control,,26.059078216552734,0.0,0.0
+human_share,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,52,Q1 (low),0.2276208748476214,26.833337783813477,0.0169295072555542,0.0
+human_share,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,52,Q2,0.5812469739658738,20.925466537475586,-0.026772141456604004,0.0
+human_share,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,52,Q3,0.740290823247095,23.261070251464844,-0.01674520969390869,0.0
+human_share,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,52,Q4 (high),0.8777025457820091,26.38210105895996,0.008714139461517334,0.0
+human_share,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,57,control,,23.16044807434082,0.0,0.01518358552564372
+human_share,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,57,Q1 (low),0.40162522868333955,24.295734405517578,0.05303338170051575,0.01935687803327654
+human_share,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,57,Q2,0.6897462499906108,26.420942306518555,0.07297771317618233,0.005175731037800003
+human_share,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,57,Q3,0.804621353203286,25.832660675048828,0.07513945017542158,0.033117697038581424
+human_share,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,57,Q4 (high),0.9311755330862882,25.111330032348633,0.06708673919950213,0.01171923997147433
+human_share,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,50,control,,21.470211029052734,0.0,0.06
+human_share,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,50,Q1 (low),0.30329701365885575,21.7061767578125,0.04948306083679199,0.09
+human_share,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,50,Q2,0.614540561471934,19.828556060791016,0.024020642042160034,0.060000000000000005
+human_share,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,50,Q3,0.7450689008846904,21.067913055419922,0.030780434608459473,0.05
+human_share,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,50,Q4 (high),0.9217113979401884,22.926666259765625,0.05883517861366272,0.08
+human_share,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,55,control,,19.739347457885742,0.0,0.01744732673393339
+human_share,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,55,Q1 (low),0.3228046055711847,24.522022247314453,0.08025193214416504,0.013227883479575148
+human_share,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,55,Q2,0.6788608713840911,20.104862213134766,0.03368928215720437,0.006371334189510183
+human_share,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,55,Q3,0.8335614589238479,23.38311004638672,0.06847688826647672,0.001466275659824047
+human_share,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,55,Q4 (high),0.9566328877889028,21.495195388793945,0.05065338178114458,0.007677224994712261
+human_share,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,control,,25.9515380859375,0.0,0.0
+human_share,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,Q1 (low),0.27957792152038163,27.047517776489258,0.0617046852906545,0.0
+human_share,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,Q2,0.5840779275763797,27.1108341217041,0.07961772878964742,0.0
+human_share,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,Q3,0.7318466996502397,27.220083236694336,0.07455355922381084,0.0
+human_share,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,Q4 (high),0.904730931661878,28.247594833374023,0.06895340482393901,0.0
+human_share,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,56,control,,29.932939529418945,0.0,0.0
+human_share,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,56,Q1 (low),0.292863513588336,27.580429077148438,0.032399194581168037,0.0
+human_share,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,56,Q2,0.6132745672799852,27.913070678710938,0.03299169881003244,0.0
+human_share,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,56,Q3,0.7647313907427371,27.463022232055664,0.03442627191543579,0.0
+human_share,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,56,Q4 (high),0.922885441375608,27.796613693237305,0.022359941686902727,0.0
+human_share,creative,bee,93,control,,29.320711135864258,0.0,0.010848575805066365
+human_share,creative,bee,93,Q1 (low),0.3358023063071709,32.41741180419922,0.0563106119632721,0.032134158542956065
+human_share,creative,bee,93,Q2,0.5428773004876017,31.453105926513672,0.035981305440266925,0.015247191011235955
+human_share,creative,bee,93,Q3,0.7035018459955235,31.68621253967285,0.04301494558652242,0.0227457876236265
+human_share,creative,bee,93,Q4 (high),0.8666410517704926,30.54048728942871,0.0371868093808492,0.017790262172284646
+human_share,creative,dad,98,control,,33.974117279052734,0.0,0.0
+human_share,creative,dad,98,Q1 (low),0.4314012990206191,34.06061935424805,0.04956067403157552,0.0
+human_share,creative,dad,98,Q2,0.6417822533567763,32.77823257446289,0.0283523420492808,0.0
+human_share,creative,dad,98,Q3,0.760454961215684,34.392005920410156,0.0377011239528656,0.0
+human_share,creative,dad,98,Q4 (high),0.881148858668603,33.843788146972656,0.03418998916943868,0.0
+human_share,creative,isolation,81,control,,36.895416259765625,0.0,0.0
+human_share,creative,isolation,81,Q1 (low),0.3064903938448879,35.418304443359375,0.04296332803265802,0.0
+human_share,creative,isolation,81,Q2,0.6075492144539764,35.66191101074219,0.04855412039263495,0.0
+human_share,creative,isolation,81,Q3,0.7467795748359468,37.6247673034668,0.04104561641298492,0.0
+human_share,creative,isolation,81,Q4 (high),0.8571550593819501,38.245426177978516,0.05188251980419817,0.0
+human_share,creative,mana,99,control,,37.13152313232422,0.0,0.0
+human_share,creative,mana,99,Q1 (low),0.3991091536408796,34.493064880371094,0.06849523782730102,0.0
+human_share,creative,mana,99,Q2,0.5883260804104641,35.25735855102539,0.05384567975997925,0.0
+human_share,creative,mana,99,Q3,0.7363766070932781,34.38889694213867,0.052793844540913897,0.0
+human_share,creative,mana,99,Q4 (high),0.8775014653913371,37.76631164550781,0.05662250518798828,0.0
+human_share,creative,mattdamon,80,control,,32.2795295715332,0.0,0.0022578616352201255
+human_share,creative,mattdamon,80,Q1 (low),0.3672164140469094,32.9966926574707,0.03762331207593282,0.0006666666666666666
+human_share,creative,mattdamon,80,Q2,0.6202789585961286,32.844295501708984,0.03198732733726502,0.00143859649122807
+human_share,creative,mattdamon,80,Q3,0.7559021543482666,31.456172943115234,0.024892181158065796,0.0012955974842767295
+human_share,creative,mattdamon,80,Q4 (high),0.8844310820076807,30.685020446777344,0.02238988478978475,0.0003333333333333333
+human_share,creative,obama,90,control,,39.7251091003418,0.0,0.0
+human_share,creative,obama,90,Q1 (low),0.3535781055944556,34.96720886230469,0.03505479494730632,0.0
+human_share,creative,obama,90,Q2,0.6023244862039602,40.9282341003418,0.04637153546015422,0.0
+human_share,creative,obama,90,Q3,0.7263490880750942,41.05961227416992,0.048643990357716875,0.0
+human_share,creative,obama,90,Q4 (high),0.8889750036164481,38.70061492919922,0.03314920067787171,0.0
+human_share,creative,pig,78,control,,23.759899139404297,0.0,0.045287868311268784
+human_share,creative,pig,78,Q1 (low),0.3575631497113917,26.3514461517334,0.06950772404670716,0.06746771615016979
+human_share,creative,pig,78,Q2,0.5723582887864255,27.14514923095703,0.07624885439872742,0.10766220629920736
+human_share,creative,pig,78,Q3,0.7344033770856476,27.400287628173828,0.08601619203885397,0.10349795829496937
+human_share,creative,pig,78,Q4 (high),0.8876546523204653,26.81532859802246,0.0697363038857778,0.077278165925568
+human_share,creative,reincarnation,99,control,,43.80449676513672,0.0,0.0
+human_share,creative,reincarnation,99,Q1 (low),0.4608768888077226,40.923580169677734,0.05523834427197774,0.0
+human_share,creative,reincarnation,99,Q2,0.6251452085938932,42.594547271728516,0.04272274971008301,0.0
+human_share,creative,reincarnation,99,Q3,0.7531559784145295,44.64973449707031,0.05023319125175476,0.0
+human_share,creative,reincarnation,99,Q4 (high),0.8581251682948684,43.880680084228516,0.05144019524256389,0.0
+human_share,creative,shapeshifter,95,control,,37.90034484863281,0.0,0.0
+human_share,creative,shapeshifter,95,Q1 (low),0.4553112023560117,37.331172943115234,0.0676725705464681,0.0
+human_share,creative,shapeshifter,95,Q2,0.6738377676737188,35.636043548583984,0.05363867084185282,0.0
+human_share,creative,shapeshifter,95,Q3,0.8148108569371473,37.538734436035156,0.0521174410978953,0.0
+human_share,creative,shapeshifter,95,Q4 (high),0.9201985481073326,38.706886291503906,0.053881426652272545,0.0006666666666666666
+human_share,creative,sideeffect,93,control,,39.10845947265625,0.0,0.0
+human_share,creative,sideeffect,93,Q1 (low),0.44960522798649777,37.75920486450195,0.04173961083094279,0.0
+human_share,creative,sideeffect,93,Q2,0.672001034113127,34.615943908691406,0.020926777521769205,0.0
+human_share,creative,sideeffect,93,Q3,0.7628831862091173,35.7203483581543,0.03164046406745911,0.0
+human_share,creative,sideeffect,93,Q4 (high),0.8886605759461271,37.0701789855957,0.037175299723943074,0.0

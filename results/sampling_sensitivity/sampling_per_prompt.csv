@@ -1,0 +1,321 @@
+encoder,genre,prompt,setting,n,condition,deff
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,control,23.856678199768066
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,Accepted,22.400419235229492
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,Mixed,21.191349220275878
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,Human,23.827265071868897
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,control,23.8004056930542
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,Accepted,22.122862148284913
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,Mixed,19.886205768585206
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,Human,23.475533294677735
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,control,21.911626529693603
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,Accepted,21.876733779907227
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,Mixed,17.117142772674562
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,Human,23.755595207214355
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,control,23.60079879760742
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,Accepted,21.81311674118042
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,Mixed,17.14686436653137
+st,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,Human,23.734099006652833
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,control,23.740123176574706
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,Accepted,22.137814807891846
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,Mixed,22.289646434783936
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,Human,23.576438903808594
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,control,23.335950565338134
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,Accepted,21.832532691955567
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,Mixed,21.72575988769531
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,Human,22.761686515808105
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,control,22.335886478424072
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,Accepted,21.894848823547363
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,Mixed,19.60771598815918
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,Human,22.351488208770753
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,control,23.053999996185304
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,Accepted,21.08812885284424
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,Mixed,19.022332286834718
+st,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,Human,21.5469539642334
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,control,23.75164203643799
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,Accepted,22.334496116638185
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,Mixed,21.84790735244751
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,Human,23.148986434936525
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,control,23.799574375152588
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,Accepted,22.118160820007326
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,Mixed,22.40365400314331
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,Human,22.694700622558592
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,control,23.029306888580322
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,Accepted,21.533710384368895
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,Mixed,20.159176445007326
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,Human,22.722621822357176
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,control,24.096036911010742
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,Accepted,21.582428073883058
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,Mixed,20.502962398529053
+st,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,Human,22.629188346862794
+st,creative,bee,unrestricted,62,control,25.581580543518065
+st,creative,bee,unrestricted,62,Accepted,25.196543598175047
+st,creative,bee,unrestricted,62,Mixed,24.00294246673584
+st,creative,bee,unrestricted,62,Human,27.053653621673583
+st,creative,bee,length_restricted,62,control,25.772213840484618
+st,creative,bee,length_restricted,62,Accepted,26.649459838867188
+st,creative,bee,length_restricted,62,Mixed,24.743954467773438
+st,creative,bee,length_restricted,62,Human,27.449040031433107
+st,creative,bee,session_weighted,62,control,23.872982025146484
+st,creative,bee,session_weighted,62,Accepted,23.662125492095946
+st,creative,bee,session_weighted,62,Mixed,22.735901355743408
+st,creative,bee,session_weighted,62,Human,28.075821971893312
+st,creative,bee,length_session_weighted,62,control,25.335707473754884
+st,creative,bee,length_session_weighted,62,Accepted,24.761991500854492
+st,creative,bee,length_session_weighted,62,Mixed,23.559485054016115
+st,creative,bee,length_session_weighted,62,Human,26.85303440093994
+st,creative,dad,unrestricted,43,control,23.834727001190185
+st,creative,dad,unrestricted,43,Accepted,22.174320793151857
+st,creative,dad,unrestricted,43,Mixed,22.61567106246948
+st,creative,dad,unrestricted,43,Human,24.475304317474365
+st,creative,dad,length_restricted,43,control,22.953988361358643
+st,creative,dad,length_restricted,43,Accepted,20.89890785217285
+st,creative,dad,length_restricted,43,Mixed,23.060379695892333
+st,creative,dad,length_restricted,43,Human,23.73576955795288
+st,creative,dad,session_weighted,43,control,23.379072856903075
+st,creative,dad,session_weighted,43,Accepted,21.566341972351076
+st,creative,dad,session_weighted,43,Mixed,21.982237148284913
+st,creative,dad,session_weighted,43,Human,23.920767307281494
+st,creative,dad,length_session_weighted,43,control,22.933549308776854
+st,creative,dad,length_session_weighted,43,Accepted,21.193792629241944
+st,creative,dad,length_session_weighted,43,Mixed,22.782143974304198
+st,creative,dad,length_session_weighted,43,Human,23.97936601638794
+st,creative,mana,unrestricted,46,control,25.83821048736572
+st,creative,mana,unrestricted,46,Accepted,25.5705153465271
+st,creative,mana,unrestricted,46,Mixed,25.757550716400146
+st,creative,mana,unrestricted,46,Human,27.14661226272583
+st,creative,mana,length_restricted,46,control,24.499547481536865
+st,creative,mana,length_restricted,46,Accepted,24.74249963760376
+st,creative,mana,length_restricted,46,Mixed,25.737846279144286
+st,creative,mana,length_restricted,46,Human,25.358748626708984
+st,creative,mana,session_weighted,46,control,25.835290145874023
+st,creative,mana,session_weighted,46,Accepted,25.03850507736206
+st,creative,mana,session_weighted,46,Mixed,27.126928329467773
+st,creative,mana,session_weighted,46,Human,26.152143287658692
+st,creative,mana,length_session_weighted,46,control,24.547653579711913
+st,creative,mana,length_session_weighted,46,Accepted,25.291176891326906
+st,creative,mana,length_session_weighted,46,Mixed,27.379327392578126
+st,creative,mana,length_session_weighted,46,Human,25.226297664642335
+st,creative,mattdamon,unrestricted,45,control,23.943393516540528
+st,creative,mattdamon,unrestricted,45,Accepted,23.809348011016844
+st,creative,mattdamon,unrestricted,45,Mixed,22.80005979537964
+st,creative,mattdamon,unrestricted,45,Human,25.33045587539673
+st,creative,mattdamon,length_restricted,45,control,23.428979682922364
+st,creative,mattdamon,length_restricted,45,Accepted,23.740750312805176
+st,creative,mattdamon,length_restricted,45,Mixed,23.00463237762451
+st,creative,mattdamon,length_restricted,45,Human,25.768770503997803
+st,creative,mattdamon,session_weighted,45,control,24.107871437072752
+st,creative,mattdamon,session_weighted,45,Accepted,23.021515941619874
+st,creative,mattdamon,session_weighted,45,Mixed,22.861003589630126
+st,creative,mattdamon,session_weighted,45,Human,25.132034492492675
+st,creative,mattdamon,length_session_weighted,45,control,23.124241256713866
+st,creative,mattdamon,length_session_weighted,45,Accepted,24.298461723327637
+st,creative,mattdamon,length_session_weighted,45,Mixed,22.000019550323486
+st,creative,mattdamon,length_session_weighted,45,Human,26.482928848266603
+st,creative,obama,unrestricted,50,control,30.01392545700073
+st,creative,obama,unrestricted,50,Accepted,29.147538280487062
+st,creative,obama,unrestricted,50,Mixed,23.008792877197266
+st,creative,obama,unrestricted,50,Human,29.97259111404419
+st,creative,obama,length_restricted,50,control,28.4513298034668
+st,creative,obama,length_restricted,50,Accepted,29.77750720977783
+st,creative,obama,length_restricted,50,Mixed,25.35353527069092
+st,creative,obama,length_restricted,50,Human,29.454578399658203
+st,creative,obama,session_weighted,50,control,29.7809907913208
+st,creative,obama,session_weighted,50,Accepted,28.979914283752443
+st,creative,obama,session_weighted,50,Mixed,18.748659706115724
+st,creative,obama,session_weighted,50,Human,30.05836362838745
+st,creative,obama,length_session_weighted,50,control,28.511614322662354
+st,creative,obama,length_session_weighted,50,Accepted,29.342469692230225
+st,creative,obama,length_session_weighted,50,Mixed,22.0748291015625
+st,creative,obama,length_session_weighted,50,Human,29.658505821228026
+st,creative,pig,unrestricted,40,control,18.67152109146118
+st,creative,pig,unrestricted,40,Accepted,19.431478786468507
+st,creative,pig,unrestricted,40,Mixed,19.616982841491698
+st,creative,pig,unrestricted,40,Human,20.32039918899536
+st,creative,pig,length_restricted,40,control,18.761320877075196
+st,creative,pig,length_restricted,40,Accepted,19.89387321472168
+st,creative,pig,length_restricted,40,Mixed,19.04881887435913
+st,creative,pig,length_restricted,40,Human,20.610629940032958
+st,creative,pig,session_weighted,40,control,18.078408432006835
+st,creative,pig,session_weighted,40,Accepted,18.95869388580322
+st,creative,pig,session_weighted,40,Mixed,18.61388702392578
+st,creative,pig,session_weighted,40,Human,21.064173698425293
+st,creative,pig,length_session_weighted,40,control,18.08223361968994
+st,creative,pig,length_session_weighted,40,Accepted,18.886008167266844
+st,creative,pig,length_session_weighted,40,Mixed,17.84282503128052
+st,creative,pig,length_session_weighted,40,Human,20.6231520652771
+st,creative,reincarnation,unrestricted,48,control,29.66321382522583
+st,creative,reincarnation,unrestricted,48,Accepted,29.419712924957274
+st,creative,reincarnation,unrestricted,48,Mixed,27.583177089691162
+st,creative,reincarnation,unrestricted,48,Human,30.86151828765869
+st,creative,reincarnation,length_restricted,48,control,28.645201683044434
+st,creative,reincarnation,length_restricted,48,Accepted,28.5157169342041
+st,creative,reincarnation,length_restricted,48,Mixed,27.44336919784546
+st,creative,reincarnation,length_restricted,48,Human,30.46364402770996
+st,creative,reincarnation,session_weighted,48,control,29.973644542694093
+st,creative,reincarnation,session_weighted,48,Accepted,29.271351432800294
+st,creative,reincarnation,session_weighted,48,Mixed,28.779035377502442
+st,creative,reincarnation,session_weighted,48,Human,31.10121622085571
+st,creative,reincarnation,length_session_weighted,48,control,28.761814975738524
+st,creative,reincarnation,length_session_weighted,48,Accepted,28.369103050231935
+st,creative,reincarnation,length_session_weighted,48,Mixed,28.850683975219727
+st,creative,reincarnation,length_session_weighted,48,Human,30.547614574432373
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,control,28.54381036758423
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,Accepted,26.358845138549803
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,Mixed,25.081075382232665
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,unrestricted,46,Human,28.83605890274048
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,control,28.36813039779663
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,Accepted,26.700422477722167
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,Mixed,23.691427326202394
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_restricted,46,Human,28.977281093597412
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,control,26.27255153656006
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,Accepted,25.949213409423827
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,Mixed,20.03315086364746
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,session_weighted,46,Human,28.741214942932128
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,control,28.287166786193847
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,Accepted,26.32571668624878
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,Mixed,19.848683643341065
+openai,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,length_session_weighted,46,Human,29.485694217681885
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,control,27.92977056503296
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,Accepted,26.294459915161134
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,Mixed,27.049197387695312
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,unrestricted,43,Human,28.36234712600708
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,control,27.652780723571777
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,Accepted,26.19174995422363
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,Mixed,26.06703519821167
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_restricted,43,Human,27.594896125793458
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,control,26.90387554168701
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,Accepted,26.248092555999754
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,Mixed,22.72184658050537
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,session_weighted,43,Human,27.80471181869507
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,control,27.216423797607423
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,Accepted,25.561742496490478
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,Mixed,22.115388870239258
+openai,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,length_session_weighted,43,Human,26.86017656326294
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,control,29.541097831726074
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,Accepted,28.457673454284667
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,Mixed,27.924601745605468
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,unrestricted,51,Human,29.519388580322264
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,control,30.36241035461426
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,Accepted,28.235579586029054
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,Mixed,28.385056018829346
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_restricted,51,Human,29.225206756591795
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,control,29.32272958755493
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,Accepted,28.2851619720459
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,Mixed,25.906236934661866
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,session_weighted,51,Human,29.373082160949707
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,control,30.39821195602417
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,Accepted,28.245451354980467
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,Mixed,25.738182163238527
+openai,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,length_session_weighted,51,Human,29.109639835357665
+openai,creative,bee,unrestricted,62,control,32.16895637512207
+openai,creative,bee,unrestricted,62,Accepted,31.796109771728517
+openai,creative,bee,unrestricted,62,Mixed,29.988513660430907
+openai,creative,bee,unrestricted,62,Human,34.71773834228516
+openai,creative,bee,length_restricted,62,control,33.54473037719727
+openai,creative,bee,length_restricted,62,Accepted,33.460817527771
+openai,creative,bee,length_restricted,62,Mixed,31.806481266021727
+openai,creative,bee,length_restricted,62,Human,35.16969661712646
+openai,creative,bee,session_weighted,62,control,31.48712100982666
+openai,creative,bee,session_weighted,62,Accepted,30.832500648498534
+openai,creative,bee,session_weighted,62,Mixed,28.32590608596802
+openai,creative,bee,session_weighted,62,Human,35.41225872039795
+openai,creative,bee,length_session_weighted,62,control,33.47904281616211
+openai,creative,bee,length_session_weighted,62,Accepted,32.282496547698976
+openai,creative,bee,length_session_weighted,62,Mixed,30.578598308563233
+openai,creative,bee,length_session_weighted,62,Human,35.26709213256836
+openai,creative,dad,unrestricted,43,control,27.77274932861328
+openai,creative,dad,unrestricted,43,Accepted,26.46223726272583
+openai,creative,dad,unrestricted,43,Mixed,26.81403503417969
+openai,creative,dad,unrestricted,43,Human,28.546644306182863
+openai,creative,dad,length_restricted,43,control,27.233992862701417
+openai,creative,dad,length_restricted,43,Accepted,25.268118953704835
+openai,creative,dad,length_restricted,43,Mixed,27.463934421539307
+openai,creative,dad,length_restricted,43,Human,27.481360340118407
+openai,creative,dad,session_weighted,43,control,27.63506088256836
+openai,creative,dad,session_weighted,43,Accepted,25.874907875061034
+openai,creative,dad,session_weighted,43,Mixed,27.028405952453614
+openai,creative,dad,session_weighted,43,Human,27.866436004638672
+openai,creative,dad,length_session_weighted,43,control,27.163840770721436
+openai,creative,dad,length_session_weighted,43,Accepted,25.728428173065186
+openai,creative,dad,length_session_weighted,43,Mixed,27.44376230239868
+openai,creative,dad,length_session_weighted,43,Human,27.894512176513672
+openai,creative,mana,unrestricted,46,control,30.34031763076782
+openai,creative,mana,unrestricted,46,Accepted,29.48065118789673
+openai,creative,mana,unrestricted,46,Mixed,28.08531494140625
+openai,creative,mana,unrestricted,46,Human,30.801364707946778
+openai,creative,mana,length_restricted,46,control,29.028755378723144
+openai,creative,mana,length_restricted,46,Accepted,28.369062423706055
+openai,creative,mana,length_restricted,46,Mixed,28.229210472106935
+openai,creative,mana,length_restricted,46,Human,29.621901035308838
+openai,creative,mana,session_weighted,46,control,29.768162155151366
+openai,creative,mana,session_weighted,46,Accepted,28.82897081375122
+openai,creative,mana,session_weighted,46,Mixed,29.346632862091063
+openai,creative,mana,session_weighted,46,Human,30.143012714385986
+openai,creative,mana,length_session_weighted,46,control,28.82998161315918
+openai,creative,mana,length_session_weighted,46,Accepted,28.750047397613525
+openai,creative,mana,length_session_weighted,46,Mixed,29.742378520965577
+openai,creative,mana,length_session_weighted,46,Human,29.38237257003784
+openai,creative,mattdamon,unrestricted,45,control,27.124635410308837
+openai,creative,mattdamon,unrestricted,45,Accepted,26.68035182952881
+openai,creative,mattdamon,unrestricted,45,Mixed,26.17787857055664
+openai,creative,mattdamon,unrestricted,45,Human,28.570101833343507
+openai,creative,mattdamon,length_restricted,45,control,26.617806148529052
+openai,creative,mattdamon,length_restricted,45,Accepted,25.89830389022827
+openai,creative,mattdamon,length_restricted,45,Mixed,26.106589221954344
+openai,creative,mattdamon,length_restricted,45,Human,28.294503498077393
+openai,creative,mattdamon,session_weighted,45,control,27.31824197769165
+openai,creative,mattdamon,session_weighted,45,Accepted,25.702918148040773
+openai,creative,mattdamon,session_weighted,45,Mixed,25.75642375946045
+openai,creative,mattdamon,session_weighted,45,Human,28.32910614013672
+openai,creative,mattdamon,length_session_weighted,45,control,26.260099697113038
+openai,creative,mattdamon,length_session_weighted,45,Accepted,27.128959941864014
+openai,creative,mattdamon,length_session_weighted,45,Mixed,25.382474517822267
+openai,creative,mattdamon,length_session_weighted,45,Human,29.030677032470702
+openai,creative,obama,unrestricted,50,control,34.20788660049438
+openai,creative,obama,unrestricted,50,Accepted,32.799776554107666
+openai,creative,obama,unrestricted,50,Mixed,27.23404817581177
+openai,creative,obama,unrestricted,50,Human,34.13793783187866
+openai,creative,obama,length_restricted,50,control,32.81053771972656
+openai,creative,obama,length_restricted,50,Accepted,33.824265003204346
+openai,creative,obama,length_restricted,50,Mixed,29.53522653579712
+openai,creative,obama,length_restricted,50,Human,33.9564245223999
+openai,creative,obama,session_weighted,50,control,33.32737836837769
+openai,creative,obama,session_weighted,50,Accepted,32.17268171310425
+openai,creative,obama,session_weighted,50,Mixed,23.143247604370117
+openai,creative,obama,session_weighted,50,Human,34.183125019073486
+openai,creative,obama,length_session_weighted,50,control,32.59634771347046
+openai,creative,obama,length_session_weighted,50,Accepted,32.941642379760744
+openai,creative,obama,length_session_weighted,50,Mixed,26.621101760864256
+openai,creative,obama,length_session_weighted,50,Human,34.24781265258789
+openai,creative,pig,unrestricted,40,control,22.6218599319458
+openai,creative,pig,unrestricted,40,Accepted,23.52951126098633
+openai,creative,pig,unrestricted,40,Mixed,23.355074405670166
+openai,creative,pig,unrestricted,40,Human,24.88529005050659
+openai,creative,pig,length_restricted,40,control,23.12434301376343
+openai,creative,pig,length_restricted,40,Accepted,23.959021949768065
+openai,creative,pig,length_restricted,40,Mixed,22.83538246154785
+openai,creative,pig,length_restricted,40,Human,24.933450794219972
+openai,creative,pig,session_weighted,40,control,22.203777599334718
+openai,creative,pig,session_weighted,40,Accepted,23.244837474822997
+openai,creative,pig,session_weighted,40,Mixed,22.457136726379396
+openai,creative,pig,session_weighted,40,Human,25.052762508392334
+openai,creative,pig,length_session_weighted,40,control,22.630281162261962
+openai,creative,pig,length_session_weighted,40,Accepted,23.495589160919188
+openai,creative,pig,length_session_weighted,40,Mixed,21.45966520309448
+openai,creative,pig,length_session_weighted,40,Human,24.894754791259764
+openai,creative,reincarnation,unrestricted,48,control,33.23877000808716
+openai,creative,reincarnation,unrestricted,48,Accepted,32.43748502731323
+openai,creative,reincarnation,unrestricted,48,Mixed,31.225082778930663
+openai,creative,reincarnation,unrestricted,48,Human,34.130028533935544
+openai,creative,reincarnation,length_restricted,48,control,32.45099658966065
+openai,creative,reincarnation,length_restricted,48,Accepted,32.19436111450195
+openai,creative,reincarnation,length_restricted,48,Mixed,31.28812093734741
+openai,creative,reincarnation,length_restricted,48,Human,33.69673700332642
+openai,creative,reincarnation,session_weighted,48,control,33.40352230072021
+openai,creative,reincarnation,session_weighted,48,Accepted,32.218539524078366
+openai,creative,reincarnation,session_weighted,48,Mixed,32.46732835769653
+openai,creative,reincarnation,session_weighted,48,Human,34.3813720703125
+openai,creative,reincarnation,length_session_weighted,48,control,32.5244553565979
+openai,creative,reincarnation,length_session_weighted,48,Accepted,31.587357425689696
+openai,creative,reincarnation,length_session_weighted,48,Mixed,32.728943538665774
+openai,creative,reincarnation,length_session_weighted,48,Human,34.078271484375

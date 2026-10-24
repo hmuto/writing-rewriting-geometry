@@ -1,0 +1,161 @@
+genre,prompt,n,cond,med_sessions
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,control,54.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Accepted,55.5
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Mixed,61.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Human,59.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,control,48.5
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Accepted,51.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Mixed,48.5
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Human,52.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,control,50.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Accepted,52.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Mixed,49.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Human,54.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,control,48.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Accepted,46.5
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Mixed,51.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Human,54.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,control,45.5
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Accepted,45.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Mixed,45.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Human,51.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,control,46.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Accepted,44.5
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Mixed,47.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Human,51.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,control,46.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Accepted,50.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Mixed,50.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Human,54.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,control,43.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Accepted,47.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Mixed,41.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Human,54.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,control,54.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Accepted,53.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Mixed,50.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Human,58.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,control,53.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Accepted,52.5
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Mixed,50.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Human,58.0
+creative,bee,200,control,69.5
+creative,bee,200,Accepted,66.0
+creative,bee,200,Mixed,71.5
+creative,bee,200,Human,76.0
+creative,dad,200,control,71.0
+creative,dad,200,Accepted,66.0
+creative,dad,200,Mixed,58.5
+creative,dad,200,Human,72.0
+creative,isolation,177,control,69.0
+creative,isolation,177,Accepted,64.0
+creative,isolation,177,Mixed,49.0
+creative,isolation,177,Human,69.0
+creative,mana,200,control,72.0
+creative,mana,200,Accepted,72.0
+creative,mana,200,Mixed,56.0
+creative,mana,200,Human,79.0
+creative,mattdamon,200,control,66.0
+creative,mattdamon,200,Accepted,67.0
+creative,mattdamon,200,Mixed,52.0
+creative,mattdamon,200,Human,69.0
+creative,obama,200,control,60.0
+creative,obama,200,Accepted,60.5
+creative,obama,200,Mixed,60.0
+creative,obama,200,Human,66.0
+creative,pig,200,control,61.0
+creative,pig,200,Accepted,56.5
+creative,pig,200,Mixed,64.0
+creative,pig,200,Human,66.0
+creative,reincarnation,200,control,73.5
+creative,reincarnation,200,Accepted,74.0
+creative,reincarnation,200,Mixed,58.0
+creative,reincarnation,200,Human,77.5
+creative,shapeshifter,150,control,61.0
+creative,shapeshifter,150,Accepted,62.0
+creative,shapeshifter,150,Mixed,51.0
+creative,shapeshifter,150,Human,64.0
+creative,sideeffect,170,control,67.0
+creative,sideeffect,170,Accepted,62.0
+creative,sideeffect,170,Mixed,63.0
+creative,sideeffect,170,Human,70.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",86,bin h<0.2,40.5
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",86,bin h 0.2-0.5,35.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",86,bin h 0.5-0.8,50.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",86,bin h>=0.8,46.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,100,bin h<0.2,39.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,100,bin h 0.2-0.5,30.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,100,bin h 0.5-0.8,40.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,100,bin h>=0.8,44.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,92,bin h<0.2,39.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,92,bin h 0.2-0.5,31.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,92,bin h 0.5-0.8,39.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,92,bin h>=0.8,42.5
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,100,bin h<0.2,38.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,100,bin h 0.2-0.5,33.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,100,bin h 0.5-0.8,41.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,100,bin h>=0.8,44.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,64,bin h<0.2,33.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,64,bin h 0.2-0.5,30.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,64,bin h 0.5-0.8,34.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,64,bin h>=0.8,38.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,76,bin h<0.2,33.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,76,bin h 0.2-0.5,30.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,76,bin h 0.5-0.8,41.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,76,bin h>=0.8,39.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,84,bin h<0.2,37.5
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,84,bin h 0.2-0.5,33.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,84,bin h 0.5-0.8,43.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,84,bin h>=0.8,43.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,89,bin h<0.2,36.5
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,89,bin h 0.2-0.5,26.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,89,bin h 0.5-0.8,39.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,89,bin h>=0.8,46.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,bin h<0.2,44.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,bin h 0.2-0.5,36.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,bin h 0.5-0.8,39.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,bin h>=0.8,47.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,77,bin h<0.2,38.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,77,bin h 0.2-0.5,35.5
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,77,bin h 0.5-0.8,38.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,77,bin h>=0.8,42.0
+creative,bee,100,bin h<0.2,50.0
+creative,bee,100,bin h 0.2-0.5,55.0
+creative,bee,100,bin h 0.5-0.8,53.5
+creative,bee,100,bin h>=0.8,56.5
+creative,dad,100,bin h<0.2,52.0
+creative,dad,100,bin h 0.2-0.5,46.0
+creative,dad,100,bin h 0.5-0.8,43.0
+creative,dad,100,bin h>=0.8,55.0
+creative,isolation,77,bin h<0.2,42.5
+creative,isolation,77,bin h 0.2-0.5,35.0
+creative,isolation,77,bin h 0.5-0.8,29.0
+creative,isolation,77,bin h>=0.8,48.0
+creative,mana,89,bin h<0.2,50.0
+creative,mana,89,bin h 0.2-0.5,42.0
+creative,mana,89,bin h 0.5-0.8,33.0
+creative,mana,89,bin h>=0.8,53.5
+creative,mattdamon,100,bin h<0.2,50.5
+creative,mattdamon,100,bin h 0.2-0.5,43.5
+creative,mattdamon,100,bin h 0.5-0.8,37.0
+creative,mattdamon,100,bin h>=0.8,53.5
+creative,obama,100,bin h<0.2,46.0
+creative,obama,100,bin h 0.2-0.5,43.0
+creative,obama,100,bin h 0.5-0.8,47.0
+creative,obama,100,bin h>=0.8,51.5
+creative,pig,100,bin h<0.2,44.0
+creative,pig,100,bin h 0.2-0.5,45.0
+creative,pig,100,bin h 0.5-0.8,48.0
+creative,pig,100,bin h>=0.8,52.0
+creative,reincarnation,100,bin h<0.2,55.0
+creative,reincarnation,100,bin h 0.2-0.5,46.0
+creative,reincarnation,100,bin h 0.5-0.8,38.0
+creative,reincarnation,100,bin h>=0.8,57.5
+creative,shapeshifter,70,bin h<0.2,42.0
+creative,shapeshifter,70,bin h 0.2-0.5,37.0
+creative,shapeshifter,70,bin h 0.5-0.8,32.0
+creative,shapeshifter,70,bin h>=0.8,45.0
+creative,sideeffect,75,bin h<0.2,43.5
+creative,sideeffect,75,bin h 0.2-0.5,48.0
+creative,sideeffect,75,bin h 0.5-0.8,38.0
+creative,sideeffect,75,bin h>=0.8,48.0

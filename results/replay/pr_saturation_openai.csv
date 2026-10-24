@@ -1,0 +1,86 @@
+n,genre,prompt,control,human
+25,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",18.079683,18.789036
+25,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,18.58813,18.724304
+25,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,18.58501,18.516756
+25,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,18.270329,17.993677
+25,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,17.18038,17.666485
+25,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,18.354845,19.238523
+25,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,19.164303,19.369959
+25,creative,bee,17.971874,18.594412
+25,creative,dad,18.386845,18.791613
+25,creative,isolation,19.601847,20.121475
+25,creative,mana,18.960869,19.371536
+25,creative,mattdamon,17.882381,18.464466
+25,creative,obama,19.670324,19.98705
+25,creative,pig,16.395824,17.859194
+25,creative,reincarnation,19.789743,20.26074
+25,creative,shapeshifter,19.626453,20.141104
+25,creative,sideeffect,19.480171,19.728397
+50,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",30.648586,31.138561
+50,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,30.332005,30.143368
+50,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,31.154907,30.923374
+50,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,29.382376,29.36784
+50,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,27.567108,28.232779
+50,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,29.463058,32.79074
+50,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,33.048676,33.50152
+50,creative,bee,28.8435,31.092869
+50,creative,dad,31.416077,30.689402
+50,creative,isolation,33.844448,35.217438
+50,creative,mana,31.931957,32.532467
+50,creative,mattdamon,29.69184,30.52533
+50,creative,obama,33.9387,34.211052
+50,creative,pig,25.754358,28.998709
+50,creative,reincarnation,34.408382,35.494045
+50,creative,shapeshifter,34.02718,35.653297
+50,creative,sideeffect,33.82005,33.408855
+100,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",45.17264,45.9537
+100,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,44.25966,44.492664
+100,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,46.32061,46.047325
+100,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,42.906517,42.483746
+100,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,39.699993,41.30562
+100,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,43.132572,49.34983
+100,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,50.310856,51.164608
+100,creative,bee,41.795303,45.743412
+100,creative,dad,45.341114,45.275276
+100,creative,isolation,52.99012,54.50518
+100,creative,mana,46.665146,48.838142
+100,creative,mattdamon,41.629955,44.35691
+100,creative,obama,51.430855,53.477276
+100,creative,pig,34.843018,41.30531
+100,creative,reincarnation,53.375294,55.49106
+100,creative,shapeshifter,52.859108,56.107582
+100,creative,sideeffect,51.411266,51.062355
+200,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",58.13044,61.48516
+200,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,58.1616,57.386444
+200,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,60.379234,61.143505
+200,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,54.572643,53.117165
+200,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,51.288033,53.001823
+200,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,53.424232,67.32072
+200,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,67.5373,69.3203
+200,creative,bee,51.710217,58.886024
+200,creative,dad,57.778725,57.906067
+200,creative,isolation,71.94841,75.61071
+200,creative,mana,62.947395,65.37135
+200,creative,mattdamon,53.967804,57.005695
+200,creative,obama,70.21893,72.0525
+200,creative,pig,42.368813,52.66274
+200,creative,reincarnation,72.72274,77.28789
+200,creative,shapeshifter,71.803246,77.49848
+200,creative,sideeffect,70.281906,67.772804
+400,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",67.50548,73.60553
+400,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,67.41684,68.382965
+400,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,72.0778,71.32111
+400,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,63.36097,60.90083
+400,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,59.1693,61.241486
+400,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,61.447712,81.45015
+400,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,81.1945,83.44507
+400,creative,bee,60.467407,68.866165
+400,creative,dad,66.56657,68.64702
+400,creative,isolation,87.11218,93.609276
+400,creative,mana,74.73249,77.8299
+400,creative,mattdamon,63.14325,67.54199
+400,creative,obama,84.41487,87.331345
+400,creative,pig,47.44406,60.325634
+400,creative,reincarnation,88.93029,95.9788
+400,creative,shapeshifter,88.24663,96.71111
+400,creative,sideeffect,84.05005,82.33969

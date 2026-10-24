@@ -1,0 +1,61 @@
+genre,prompt,n,cond,u_deff
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Accepted,0.37209779024124146
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Mixed,-4.388955116271973
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Human,2.371805429458618
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Accepted,-2.869905710220337
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Mixed,-4.601609706878662
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Human,0.7942907214164734
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Accepted,-2.181197166442871
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Mixed,-1.2028160095214844
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Human,0.38956087827682495
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Accepted,-2.164459705352783
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Mixed,-2.9356493949890137
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Human,-0.40211907029151917
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Accepted,-0.8266115188598633
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Mixed,-0.47059670090675354
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Human,4.9337544441223145
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Accepted,-0.7890650033950806
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Mixed,-1.766137719154358
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Human,1.5543010234832764
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Accepted,0.029765700921416283
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Mixed,-1.431762456893921
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Human,2.0754284858703613
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Accepted,-1.1912286281585693
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Mixed,-1.1805185079574585
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Human,3.1540896892547607
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Accepted,0.43241578340530396
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Mixed,-0.20443591475486755
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Human,6.019933700561523
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Accepted,-0.2278144806623459
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Mixed,-3.027297258377075
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Human,1.1432832479476929
+creative,bee,200,Accepted,-0.0990591049194336
+creative,bee,200,Mixed,-0.4114066958427429
+creative,bee,200,Human,3.4414424896240234
+creative,dad,200,Accepted,-1.8168437480926514
+creative,dad,200,Mixed,-0.5562843084335327
+creative,dad,200,Human,1.8069276809692383
+creative,isolation,177,Accepted,0.08277835696935654
+creative,isolation,177,Mixed,-0.2178003340959549
+creative,isolation,177,Human,4.072513580322266
+creative,mana,200,Accepted,-0.7442642450332642
+creative,mana,200,Mixed,0.8278377652168274
+creative,mana,200,Human,3.091245174407959
+creative,mattdamon,200,Accepted,-2.1421689987182617
+creative,mattdamon,200,Mixed,-1.5502281188964844
+creative,mattdamon,200,Human,1.7912683486938477
+creative,obama,200,Accepted,-0.8666750192642212
+creative,obama,200,Mixed,-7.872632026672363
+creative,obama,200,Human,2.735471248626709
+creative,pig,200,Accepted,1.1504814624786377
+creative,pig,200,Mixed,3.724834442138672
+creative,pig,200,Human,4.801699638366699
+creative,reincarnation,200,Accepted,-2.9159467220306396
+creative,reincarnation,200,Mixed,-4.427184104919434
+creative,reincarnation,200,Human,3.6812682151794434
+creative,shapeshifter,150,Accepted,0.4617273211479187
+creative,shapeshifter,150,Mixed,1.7105143070220947
+creative,shapeshifter,150,Human,3.611879825592041
+creative,sideeffect,170,Accepted,1.1786314249038696
+creative,sideeffect,170,Mixed,-3.739551544189453
+creative,sideeffect,170,Human,0.9221488833427429

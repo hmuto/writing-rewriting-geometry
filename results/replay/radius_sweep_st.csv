@@ -1,0 +1,401 @@
+genre,prompt,cond,mult,oor
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",control,1.0,0.5070224719101122
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",control,1.5,0.06488764044943822
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",control,2.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",control,2.5,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",control,3.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Accepted,1.0,0.48651685393258426
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Accepted,1.5,0.035674157303370785
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Accepted,2.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Accepted,2.5,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Accepted,3.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Mixed,1.0,0.3713483146067415
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Mixed,1.5,0.0300561797752809
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Mixed,2.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Mixed,2.5,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Mixed,3.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Human,1.0,0.526685393258427
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Human,1.5,0.05449438202247191
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Human,2.0,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Human,2.5,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",Human,3.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,control,1.0,0.49449999999999994
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,control,1.5,0.05450000000000001
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,control,2.0,0.00025
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,control,2.5,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,control,3.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Accepted,1.0,0.45625
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Accepted,1.5,0.04875
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Accepted,2.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Accepted,2.5,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Accepted,3.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Mixed,1.0,0.4075000000000001
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Mixed,1.5,0.041
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Mixed,2.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Mixed,2.5,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Mixed,3.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Human,1.0,0.47325
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Human,1.5,0.061250000000000006
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Human,2.0,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Human,2.5,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,Human,3.0,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,control,1.0,0.47924999999999995
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,control,1.5,0.0635
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,control,2.0,0.001
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,control,2.5,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,control,3.0,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Accepted,1.0,0.41800000000000004
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Accepted,1.5,0.03225000000000001
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Accepted,2.0,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Accepted,2.5,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Accepted,3.0,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Mixed,1.0,0.484
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Mixed,1.5,0.04275000000000001
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Mixed,2.0,0.00025
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Mixed,2.5,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Mixed,3.0,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Human,1.0,0.5680000000000001
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Human,1.5,0.06874999999999999
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Human,2.0,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Human,2.5,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,Human,3.0,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,control,1.0,0.5105
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,control,1.5,0.13425
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,control,2.0,0.0034999999999999996
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,control,2.5,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,control,3.0,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Accepted,1.0,0.45550000000000007
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Accepted,1.5,0.09175
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Accepted,2.0,0.002
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Accepted,2.5,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Accepted,3.0,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Mixed,1.0,0.39525
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Mixed,1.5,0.08050000000000002
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Mixed,2.0,0.0032500000000000003
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Mixed,2.5,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Mixed,3.0,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Human,1.0,0.51325
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Human,1.5,0.1335
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Human,2.0,0.00125
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Human,2.5,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,Human,3.0,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,control,1.0,0.495744680851064
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,control,1.5,0.14290780141843967
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,control,2.0,0.012411347517730497
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,control,2.5,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,control,3.0,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Accepted,1.0,0.46382978723404256
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Accepted,1.5,0.11382978723404258
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Accepted,2.0,0.0039007092198581556
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Accepted,2.5,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Accepted,3.0,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Mixed,1.0,0.3836879432624113
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Mixed,1.5,0.11808510638297873
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Mixed,2.0,0.008156028368794328
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Mixed,2.5,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Mixed,3.0,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Human,1.0,0.6386524822695034
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Human,1.5,0.20283687943262413
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Human,2.0,0.012411347517730497
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Human,2.5,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,Human,3.0,0.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,control,1.0,0.4791666666666667
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,control,1.5,0.1648809523809524
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,control,2.0,0.030059523809523807
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,control,2.5,0.001488095238095238
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,control,3.0,0.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Accepted,1.0,0.39880952380952384
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Accepted,1.5,0.09226190476190475
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Accepted,2.0,0.011011904761904761
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Accepted,2.5,0.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Accepted,3.0,0.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Mixed,1.0,0.27321428571428563
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Mixed,1.5,0.055059523809523815
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Mixed,2.0,0.01845238095238095
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Mixed,2.5,0.0002976190476190476
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Mixed,3.0,0.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Human,1.0,0.5166666666666667
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Human,1.5,0.1767857142857143
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Human,2.0,0.03571428571428571
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Human,2.5,0.0011904761904761904
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,Human,3.0,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,control,1.0,0.5161849710982659
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,control,1.5,0.2060693641618497
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,control,2.0,0.05346820809248555
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,control,2.5,0.002023121387283237
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,control,3.0,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Accepted,1.0,0.43612716763005777
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Accepted,1.5,0.12196531791907513
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Accepted,2.0,0.019942196531791904
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Accepted,2.5,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Accepted,3.0,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Mixed,1.0,0.38179190751445086
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Mixed,1.5,0.12716763005780346
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Mixed,2.0,0.023121387283236993
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Mixed,2.5,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Mixed,3.0,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Human,1.0,0.5901734104046241
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Human,1.5,0.2300578034682081
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Human,2.0,0.051734104046242776
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Human,2.5,0.0017341040462427744
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,Human,3.0,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,control,1.0,0.462012987012987
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,control,1.5,0.14155844155844155
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,control,2.0,0.009415584415584415
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,control,2.5,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,control,3.0,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Accepted,1.0,0.40681818181818186
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Accepted,1.5,0.11493506493506493
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Accepted,2.0,0.002922077922077922
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Accepted,2.5,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Accepted,3.0,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Mixed,1.0,0.3831168831168831
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Mixed,1.5,0.08798701298701299
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Mixed,2.0,0.0025974025974025974
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Mixed,2.5,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Mixed,3.0,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Human,1.0,0.5954545454545455
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Human,1.5,0.17142857142857143
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Human,2.0,0.00974025974025974
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Human,2.5,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,Human,3.0,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,control,1.0,0.509
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,control,1.5,0.11599999999999999
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,control,2.0,0.0022500000000000003
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,control,2.5,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,control,3.0,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Accepted,1.0,0.503
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Accepted,1.5,0.08449999999999999
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Accepted,2.0,0.00275
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Accepted,2.5,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Accepted,3.0,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Mixed,1.0,0.5237499999999999
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Mixed,1.5,0.07924999999999999
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Mixed,2.0,0.00075
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Mixed,2.5,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Mixed,3.0,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Human,1.0,0.7005
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Human,1.5,0.16474999999999998
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Human,2.0,0.001
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Human,2.5,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,Human,3.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,control,1.0,0.501685393258427
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,control,1.5,0.047752808988764044
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,control,2.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,control,2.5,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,control,3.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Accepted,1.0,0.49241573033707864
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Accepted,1.5,0.026966292134831465
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Accepted,2.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Accepted,2.5,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Accepted,3.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Mixed,1.0,0.32443820224719105
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Mixed,1.5,0.0053370786516853935
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Mixed,2.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Mixed,2.5,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Mixed,3.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Human,1.0,0.5303370786516853
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Human,1.5,0.04522471910112359
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Human,2.0,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Human,2.5,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,Human,3.0,0.0
+creative,bee,control,1.0,0.497
+creative,bee,control,1.5,0.12874999999999998
+creative,bee,control,2.0,0.0015
+creative,bee,control,2.5,0.0
+creative,bee,control,3.0,0.0
+creative,bee,Accepted,1.0,0.45249999999999996
+creative,bee,Accepted,1.5,0.11025
+creative,bee,Accepted,2.0,0.00075
+creative,bee,Accepted,2.5,0.0
+creative,bee,Accepted,3.0,0.0
+creative,bee,Mixed,1.0,0.31199999999999994
+creative,bee,Mixed,1.5,0.05525
+creative,bee,Mixed,2.0,0.0
+creative,bee,Mixed,2.5,0.0
+creative,bee,Mixed,3.0,0.0
+creative,bee,Human,1.0,0.5582499999999999
+creative,bee,Human,1.5,0.15749999999999997
+creative,bee,Human,2.0,0.00025
+creative,bee,Human,2.5,0.0
+creative,bee,Human,3.0,0.0
+creative,dad,control,1.0,0.4915000000000001
+creative,dad,control,1.5,0.03624999999999999
+creative,dad,control,2.0,0.0
+creative,dad,control,2.5,0.0
+creative,dad,control,3.0,0.0
+creative,dad,Accepted,1.0,0.45025000000000004
+creative,dad,Accepted,1.5,0.023250000000000003
+creative,dad,Accepted,2.0,0.0
+creative,dad,Accepted,2.5,0.0
+creative,dad,Accepted,3.0,0.0
+creative,dad,Mixed,1.0,0.442
+creative,dad,Mixed,1.5,0.01825
+creative,dad,Mixed,2.0,0.0
+creative,dad,Mixed,2.5,0.0
+creative,dad,Mixed,3.0,0.0
+creative,dad,Human,1.0,0.5422499999999999
+creative,dad,Human,1.5,0.035
+creative,dad,Human,2.0,0.0
+creative,dad,Human,2.5,0.0
+creative,dad,Human,3.0,0.0
+creative,isolation,control,1.0,0.4887005649717514
+creative,isolation,control,1.5,0.01327683615819209
+creative,isolation,control,2.0,0.0
+creative,isolation,control,2.5,0.0
+creative,isolation,control,3.0,0.0
+creative,isolation,Accepted,1.0,0.48672316384180786
+creative,isolation,Accepted,1.5,0.008757062146892656
+creative,isolation,Accepted,2.0,0.0
+creative,isolation,Accepted,2.5,0.0
+creative,isolation,Accepted,3.0,0.0
+creative,isolation,Mixed,1.0,0.49576271186440674
+creative,isolation,Mixed,1.5,0.007627118644067797
+creative,isolation,Mixed,2.0,0.0
+creative,isolation,Mixed,2.5,0.0
+creative,isolation,Mixed,3.0,0.0
+creative,isolation,Human,1.0,0.5796610169491526
+creative,isolation,Human,1.5,0.014689265536723164
+creative,isolation,Human,2.0,0.0
+creative,isolation,Human,2.5,0.0
+creative,isolation,Human,3.0,0.0
+creative,mana,control,1.0,0.4937499999999999
+creative,mana,control,1.5,0.027250000000000003
+creative,mana,control,2.0,0.0
+creative,mana,control,2.5,0.0
+creative,mana,control,3.0,0.0
+creative,mana,Accepted,1.0,0.466
+creative,mana,Accepted,1.5,0.017750000000000002
+creative,mana,Accepted,2.0,0.0
+creative,mana,Accepted,2.5,0.0
+creative,mana,Accepted,3.0,0.0
+creative,mana,Mixed,1.0,0.46900000000000003
+creative,mana,Mixed,1.5,0.030750000000000006
+creative,mana,Mixed,2.0,0.0
+creative,mana,Mixed,2.5,0.0
+creative,mana,Mixed,3.0,0.0
+creative,mana,Human,1.0,0.6005
+creative,mana,Human,1.5,0.0345
+creative,mana,Human,2.0,0.0
+creative,mana,Human,2.5,0.0
+creative,mana,Human,3.0,0.0
+creative,mattdamon,control,1.0,0.5007499999999999
+creative,mattdamon,control,1.5,0.08375
+creative,mattdamon,control,2.0,0.00025
+creative,mattdamon,control,2.5,0.0
+creative,mattdamon,control,3.0,0.0
+creative,mattdamon,Accepted,1.0,0.43549999999999994
+creative,mattdamon,Accepted,1.5,0.0495
+creative,mattdamon,Accepted,2.0,0.0
+creative,mattdamon,Accepted,2.5,0.0
+creative,mattdamon,Accepted,3.0,0.0
+creative,mattdamon,Mixed,1.0,0.39699999999999996
+creative,mattdamon,Mixed,1.5,0.04975000000000001
+creative,mattdamon,Mixed,2.0,0.0
+creative,mattdamon,Mixed,2.5,0.0
+creative,mattdamon,Mixed,3.0,0.0
+creative,mattdamon,Human,1.0,0.49725
+creative,mattdamon,Human,1.5,0.07299999999999998
+creative,mattdamon,Human,2.0,0.0
+creative,mattdamon,Human,2.5,0.0
+creative,mattdamon,Human,3.0,0.0
+creative,obama,control,1.0,0.4640000000000001
+creative,obama,control,1.5,0.01175
+creative,obama,control,2.0,0.0
+creative,obama,control,2.5,0.0
+creative,obama,control,3.0,0.0
+creative,obama,Accepted,1.0,0.45124999999999993
+creative,obama,Accepted,1.5,0.0075000000000000015
+creative,obama,Accepted,2.0,0.0
+creative,obama,Accepted,2.5,0.0
+creative,obama,Accepted,3.0,0.0
+creative,obama,Mixed,1.0,0.383
+creative,obama,Mixed,1.5,0.01075
+creative,obama,Mixed,2.0,0.0
+creative,obama,Mixed,2.5,0.0
+creative,obama,Mixed,3.0,0.0
+creative,obama,Human,1.0,0.6217500000000001
+creative,obama,Human,1.5,0.01725
+creative,obama,Human,2.0,0.0
+creative,obama,Human,2.5,0.0
+creative,obama,Human,3.0,0.0
+creative,pig,control,1.0,0.5192500000000001
+creative,pig,control,1.5,0.25199999999999995
+creative,pig,control,2.0,0.07700000000000001
+creative,pig,control,2.5,0.006750000000000001
+creative,pig,control,3.0,0.0
+creative,pig,Accepted,1.0,0.55525
+creative,pig,Accepted,1.5,0.24475000000000002
+creative,pig,Accepted,2.0,0.061250000000000006
+creative,pig,Accepted,2.5,0.00525
+creative,pig,Accepted,3.0,0.0
+creative,pig,Mixed,1.0,0.48624999999999996
+creative,pig,Mixed,1.5,0.1355
+creative,pig,Mixed,2.0,0.018500000000000003
+creative,pig,Mixed,2.5,0.00025
+creative,pig,Mixed,3.0,0.0
+creative,pig,Human,1.0,0.7055
+creative,pig,Human,1.5,0.32050000000000006
+creative,pig,Human,2.0,0.12425
+creative,pig,Human,2.5,0.014500000000000002
+creative,pig,Human,3.0,0.0
+creative,reincarnation,control,1.0,0.51375
+creative,reincarnation,control,1.5,0.0035000000000000005
+creative,reincarnation,control,2.0,0.0
+creative,reincarnation,control,2.5,0.0
+creative,reincarnation,control,3.0,0.0
+creative,reincarnation,Accepted,1.0,0.433
+creative,reincarnation,Accepted,1.5,0.0024999999999999996
+creative,reincarnation,Accepted,2.0,0.0
+creative,reincarnation,Accepted,2.5,0.0
+creative,reincarnation,Accepted,3.0,0.0
+creative,reincarnation,Mixed,1.0,0.48850000000000005
+creative,reincarnation,Mixed,1.5,0.0015
+creative,reincarnation,Mixed,2.0,0.0
+creative,reincarnation,Mixed,2.5,0.0
+creative,reincarnation,Mixed,3.0,0.0
+creative,reincarnation,Human,1.0,0.5959999999999999
+creative,reincarnation,Human,1.5,0.003
+creative,reincarnation,Human,2.0,0.0
+creative,reincarnation,Human,2.5,0.0
+creative,reincarnation,Human,3.0,0.0
+creative,shapeshifter,control,1.0,0.4676666666666667
+creative,shapeshifter,control,1.5,0.044666666666666674
+creative,shapeshifter,control,2.0,0.0
+creative,shapeshifter,control,2.5,0.0
+creative,shapeshifter,control,3.0,0.0
+creative,shapeshifter,Accepted,1.0,0.43666666666666665
+creative,shapeshifter,Accepted,1.5,0.01766666666666667
+creative,shapeshifter,Accepted,2.0,0.0
+creative,shapeshifter,Accepted,2.5,0.0
+creative,shapeshifter,Accepted,3.0,0.0
+creative,shapeshifter,Mixed,1.0,0.5660000000000001
+creative,shapeshifter,Mixed,1.5,0.024333333333333332
+creative,shapeshifter,Mixed,2.0,0.0
+creative,shapeshifter,Mixed,2.5,0.0
+creative,shapeshifter,Mixed,3.0,0.0
+creative,shapeshifter,Human,1.0,0.6133333333333333
+creative,shapeshifter,Human,1.5,0.03966666666666667
+creative,shapeshifter,Human,2.0,0.0
+creative,shapeshifter,Human,2.5,0.0
+creative,shapeshifter,Human,3.0,0.0
+creative,sideeffect,control,1.0,0.4908823529411765
+creative,sideeffect,control,1.5,0.006470588235294119
+creative,sideeffect,control,2.0,0.0
+creative,sideeffect,control,2.5,0.0
+creative,sideeffect,control,3.0,0.0
+creative,sideeffect,Accepted,1.0,0.5214705882352941
+creative,sideeffect,Accepted,1.5,0.0038235294117647057
+creative,sideeffect,Accepted,2.0,0.0
+creative,sideeffect,Accepted,2.5,0.0
+creative,sideeffect,Accepted,3.0,0.0
+creative,sideeffect,Mixed,1.0,0.4635294117647059
+creative,sideeffect,Mixed,1.5,0.0029411764705882353
+creative,sideeffect,Mixed,2.0,0.0
+creative,sideeffect,Mixed,2.5,0.0
+creative,sideeffect,Mixed,3.0,0.0
+creative,sideeffect,Human,1.0,0.5632352941176471
+creative,sideeffect,Human,1.5,0.0061764705882352946
+creative,sideeffect,Human,2.0,0.0
+creative,sideeffect,Human,2.5,0.0
+creative,sideeffect,Human,3.0,0.0

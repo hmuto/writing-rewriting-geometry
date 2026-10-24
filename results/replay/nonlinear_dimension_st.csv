@@ -1,0 +1,81 @@
+genre,prompt,n,cond,twonn,lb
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,control,14.90241,16.13792
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Accepted,16.215652,16.558842
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Mixed,12.31544,12.024704
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",178,Human,20.11433,19.104404
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,control,13.990431,15.402951
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Accepted,13.372078,14.238718
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Mixed,13.17733,14.159128
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,Human,18.465086,17.586517
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,control,11.981443,16.139807
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Accepted,15.0481825,15.547468
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Mixed,12.937947,13.355087
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,Human,19.241014,18.047482
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,control,11.918581,15.217463
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Accepted,12.802055,13.957321
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Mixed,13.671827,13.900149
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,Human,13.758467,14.718666
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,control,11.414455,12.183676
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Accepted,11.889417,9.276373
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Mixed,15.121431,12.560995
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,141,Human,18.158833,16.547821
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,control,13.066849,15.787595
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Accepted,14.838739,15.337778
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Mixed,14.208853,13.441406
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,168,Human,16.6022,17.766344
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,control,13.561224,16.424608
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Accepted,13.176733,14.437887
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Mixed,13.206535,15.028725
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,173,Human,16.726204,19.216383
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,control,10.614782,12.480172
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Accepted,12.11642,10.908216
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Mixed,12.827204,12.815592
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,154,Human,16.765188,14.917213
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,control,8.921143,13.607122
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Accepted,9.333481,12.4033985
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Mixed,11.702357,14.379651
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,Human,16.34716,17.534712
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,control,11.68782,16.327538
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Accepted,11.172208,15.116536
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Mixed,14.215666,15.940422
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,178,Human,18.871471,19.057495
+creative,bee,200,control,12.945284,15.801949
+creative,bee,200,Accepted,14.171976,16.389841
+creative,bee,200,Mixed,17.91837,17.863438
+creative,bee,200,Human,18.683403,19.930988
+creative,dad,200,control,15.4557495,17.39818
+creative,dad,200,Accepted,14.040021,15.278537
+creative,dad,200,Mixed,16.856503,15.89942
+creative,dad,200,Human,20.127872,19.047382
+creative,isolation,177,control,15.773196,18.38769
+creative,isolation,177,Accepted,13.794752,18.248127
+creative,isolation,177,Mixed,19.648891,18.014933
+creative,isolation,177,Human,21.424505,22.29033
+creative,mana,200,control,12.014334,15.993205
+creative,mana,200,Accepted,13.943113,16.138317
+creative,mana,200,Mixed,15.89549,15.831055
+creative,mana,200,Human,18.869581,20.81641
+creative,mattdamon,200,control,16.856865,19.190548
+creative,mattdamon,200,Accepted,15.593112,19.184124
+creative,mattdamon,200,Mixed,14.138262,18.358215
+creative,mattdamon,200,Human,20.780418,21.840134
+creative,obama,200,control,14.615408,17.224672
+creative,obama,200,Accepted,15.204907,15.695871
+creative,obama,200,Mixed,14.92641,15.647298
+creative,obama,200,Human,18.655119,19.767115
+creative,pig,200,control,9.80403,13.527945
+creative,pig,200,Accepted,11.48714,15.778247
+creative,pig,200,Mixed,9.672028,13.190221
+creative,pig,200,Human,18.884115,19.02948
+creative,reincarnation,200,control,15.042845,19.075352
+creative,reincarnation,200,Accepted,14.756399,16.770443
+creative,reincarnation,200,Mixed,19.991447,18.69514
+creative,reincarnation,200,Human,21.435877,21.640049
+creative,shapeshifter,150,control,13.167809,16.722858
+creative,shapeshifter,150,Accepted,14.710672,17.146486
+creative,shapeshifter,150,Mixed,14.362271,15.646677
+creative,shapeshifter,150,Human,20.533978,20.741405
+creative,sideeffect,170,control,14.254918,17.339905
+creative,sideeffect,170,Accepted,15.626276,17.665173
+creative,sideeffect,170,Mixed,19.385662,19.382133
+creative,sideeffect,170,Human,20.30234,19.851423

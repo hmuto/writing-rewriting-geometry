@@ -1,0 +1,55 @@
+genre,prompt,n,cond,oor,deff,leak,rad
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",57,control,0.0,27.278432846069336,0.0,1.0147871047258377
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",57,Accepted,0.0,29.33502197265625,0.02508588135242462,1.0231334507465362
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",57,Human,0.0,30.199737548828125,0.05074382722377777,1.0266673594713212
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,control,0.0,28.1727352142334,0.0,1.0087168961763382
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,Accepted,0.0,25.759994506835938,-0.013687020540237427,1.0006265610456466
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,Human,0.0,28.776844024658203,0.022689768671989442,1.006536528468132
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,61,control,0.0,30.115774154663086,0.0,1.0193857252597809
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,61,Accepted,0.0,25.94626235961914,-0.016667205095291137,0.9892740368843078
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,61,Human,0.0,26.89198875427246,0.008562761545181274,1.0087213695049286
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,68,control,0.004411764705882353,27.52785873413086,0.0,1.0220495760440826
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,68,Accepted,0.005147058823529412,25.62338638305664,-0.012357613444328308,1.0184999734163285
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,68,Human,0.0029411764705882353,25.328266143798828,0.002990129590034485,1.0219410866498948
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,54,control,0.019444444444444438,20.506378173828125,0.0,1.0269160091876983
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,54,Accepted,0.012037037037037037,19.995174407958984,-0.016924908757209776,0.9847419202327728
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,54,Human,0.03611111111111111,23.157846450805664,0.026900047063827516,1.0542337715625762
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,44,control,0.034090909090909095,19.827590942382812,0.0,1.0247879296541214
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,44,Accepted,0.010227272727272727,19.65261459350586,-0.003322070837020874,1.0007401257753372
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,44,Human,0.03522727272727272,21.858823776245117,0.029275429248809815,1.0525022506713868
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,control,0.0,25.112472534179688,0.0,1.019611009955406
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,Accepted,0.006363636363636363,26.491168975830078,0.02250951826572418,1.052008318901062
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,55,Human,0.002727272727272727,29.54702377319336,0.06683866083621978,1.0531623184680938
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,52,control,0.0,28.0969181060791,0.0,1.0190044313669204
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,52,Accepted,0.0,28.030895233154297,-1.8718838691711426e-05,1.0223994702100754
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,52,Human,0.0,29.252887725830078,0.023052629828453065,1.0251687943935395
+creative,bee,143,control,0.0013986013986013986,33.9752311706543,0.0,1.0055387765169144
+creative,bee,143,Accepted,0.0013986013986013986,33.262447357177734,-0.00965660810470581,1.0065492868423462
+creative,bee,143,Human,0.0024475524475524478,37.333030700683594,0.02976452112197876,1.0208394467830657
+creative,dad,113,control,0.0,37.110939025878906,0.0,1.0086603254079818
+creative,dad,113,Accepted,0.0,34.71306610107422,-0.019294962286949158,1.007276937365532
+creative,dad,113,Human,0.0,39.107383728027344,0.02390088140964508,1.0102287352085113
+creative,isolation,135,control,0.0,48.22776412963867,0.0,1.0116939455270768
+creative,isolation,135,Accepted,0.0,47.04042053222656,-0.008088234066963195,1.0082803070545197
+creative,isolation,135,Human,0.0,50.98954391479492,0.02579624354839325,1.0085580080747605
+creative,mana,145,control,0.0,43.49535369873047,0.0,1.0085785627365111
+creative,mana,145,Accepted,0.0,41.612144470214844,-0.009528246521949769,1.0007560193538665
+creative,mana,145,Human,0.0,45.04413986206055,0.03126234114170075,1.0091989040374756
+creative,mattdamon,111,control,0.0,37.34064483642578,0.0,1.0063081443309785
+creative,mattdamon,111,Accepted,0.0,34.963600158691406,-0.014214304089546204,0.9928792089223861
+creative,mattdamon,111,Human,0.0,39.76605987548828,0.016012993454933167,1.0067242294549943
+creative,obama,117,control,0.0,43.745723724365234,0.0,1.0112255841493607
+creative,obama,117,Accepted,0.0,44.66292190551758,0.006536006927490234,1.0146163523197174
+creative,obama,117,Human,0.0,47.226661682128906,0.038406428694725034,1.0264940440654755
+creative,pig,86,control,0.03197674418604651,25.132579803466797,0.0,1.0089270144701004
+creative,pig,86,Accepted,0.02558139534883721,26.370555877685547,0.017914560437202454,1.0177232563495635
+creative,pig,86,Human,0.09186046511627907,30.373830795288086,0.06040293276309967,1.05894655585289
+creative,reincarnation,141,control,0.0,50.75419616699219,0.0,1.0051420867443084
+creative,reincarnation,141,Accepted,0.0,48.201271057128906,-0.013270887732505798,1.0052972972393035
+creative,reincarnation,141,Human,0.0,55.593833923339844,0.03851751685142517,1.013472980260849
+creative,shapeshifter,124,control,0.0,42.066680908203125,0.0,1.006684845685959
+creative,shapeshifter,124,Accepted,0.0,42.52907943725586,0.006940588355064392,0.9910783678293228
+creative,shapeshifter,124,Human,0.0,45.666290283203125,0.035365617275238036,1.0175320386886597
+creative,sideeffect,106,control,0.0,42.09201431274414,0.0,1.012489715218544
+creative,sideeffect,106,Accepted,0.0,43.071598052978516,0.018241694569587706,1.0195655047893524
+creative,sideeffect,106,Human,0.0,43.117008209228516,0.029906722903251647,1.014400988817215

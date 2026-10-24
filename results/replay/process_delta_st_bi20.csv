@@ -1,0 +1,21 @@
+genre,prompt,n,n_human_all,n_human_proc,excess_all,excess_proc,delta
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",200,808,661,1.10954,1.7822974,0.6727574
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,693,603,-2.1569037,-0.7017145,1.4551892
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,708,611,-2.3238523,0.22765923,2.5515115
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,696,592,-3.2453492,-2.1954045,1.0499446
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,200,712,609,7.1026497,8.418379,1.3157291
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,200,661,519,1.7067616,2.697565,0.9908035
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,200,694,601,2.1711826,3.0017588,0.8305762
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,200,679,562,3.2209926,4.9395156,1.718523
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,785,655,7.5816755,9.202944,1.6212683
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,200,784,675,-1.1531254,-0.8846874,0.26843798
+creative,bee,200,1399,1070,4.9327564,5.3164496,0.38369322
+creative,dad,200,1498,1190,1.0085856,1.9571272,0.94854164
+creative,isolation,200,1206,873,4.678577,5.15121,0.47263288
+creative,mana,200,1423,1089,4.1933722,4.003232,-0.19014025
+creative,mattdamon,200,1333,985,2.704514,4.8962774,2.1917634
+creative,obama,200,1300,1030,1.7862265,1.537976,-0.24825048
+creative,pig,200,1157,828,6.235848,9.11061,2.874762
+creative,reincarnation,200,1590,1179,4.6089377,5.000768,0.39183044
+creative,shapeshifter,200,1746,1420,3.550019,4.2707863,0.72076726
+creative,sideeffect,200,1395,1126,-1.1239399,0.14730072,1.2712406

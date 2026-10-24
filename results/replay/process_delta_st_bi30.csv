@@ -1,0 +1,21 @@
+genre,prompt,n,n_human_all,n_human_proc,excess_all,excess_proc,delta
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",200,808,724,1.10954,1.4085672,0.2990272
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,200,693,638,-2.1569037,-1.1797619,0.97714186
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,200,708,646,-2.3238523,-0.38068143,1.9431709
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,200,696,637,-3.2453492,-2.3888907,0.8564584
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,200,712,649,7.1026497,7.5027657,0.40011597
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,200,661,588,1.7067616,2.160127,0.45336533
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,200,694,648,2.1711826,2.4294975,0.25831485
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,200,679,610,3.2209926,4.336919,1.1159263
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,200,785,718,7.5816755,8.742259,1.1605835
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,200,784,721,-1.1531254,-1.2202399,-0.06711447
+creative,bee,200,1399,1242,4.9327564,3.965735,-0.96702147
+creative,dad,200,1498,1338,1.0085856,2.101482,1.0928963
+creative,isolation,200,1206,1040,4.678577,4.451364,-0.2272129
+creative,mana,200,1423,1272,4.1933722,4.068942,-0.12443018
+creative,mattdamon,200,1333,1156,2.704514,3.2743378,0.56982374
+creative,obama,200,1300,1138,1.7862265,2.5135806,0.72735405
+creative,pig,200,1157,984,6.235848,8.194993,1.9591451
+creative,reincarnation,200,1590,1400,4.6089377,5.1253715,0.5164337
+creative,shapeshifter,200,1746,1589,3.550019,3.9784102,0.42839122
+creative,sideeffect,200,1395,1266,-1.1239399,-0.833264,0.29067588

@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.venv/
+figs/
+data/coauthor-v1.0/
+results/**/emb_*.npy
+results/replay/paraphrase_emb_*.npy
+results/replay/mixed_origins_emb_*.npy

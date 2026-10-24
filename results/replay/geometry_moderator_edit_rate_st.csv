@@ -1,0 +1,71 @@
+moderator,genre,prompt,n,cond,mod_value,deff,leak,oor
+edit_rate,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",73,control,,32.287628173828125,0.0,0.001150483202945237
+edit_rate,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",73,Q1 (low),0.09015553589856995,31.858247756958008,0.029954055945078533,0.0006988120195667365
+edit_rate,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",73,Q2,0.31734360410831,32.723236083984375,0.029655209294071904,0.001397624039133473
+edit_rate,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",73,Q3,0.5586885045218378,31.73061752319336,0.038130371658890334,0.0
+edit_rate,argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",73,Q4 (high),0.9123561623561623,32.028568267822266,0.029580025761215774,0.0006988120195667365
+edit_rate,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,control,,29.030046463012695,0.0,0.0
+edit_rate,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,Q1 (low),0.05475613275613276,27.67629051208496,0.02283946367410513,0.0
+edit_rate,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,Q2,0.2964646464646465,28.593793869018555,0.014176726341247559,0.0
+edit_rate,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,Q3,0.6038562091503269,26.13100242614746,0.003143603985126202,0.0
+edit_rate,argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,64,Q4 (high),0.9008415195915196,26.023256301879883,-0.0008525573290311373,0.0
+edit_rate,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,57,control,,27.687301635742188,0.0,0.0008333333333333333
+edit_rate,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,57,Q1 (low),0.09587942921276255,27.02883529663086,0.03935359120368957,0.0
+edit_rate,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,57,Q2,0.3078839869281046,26.2935848236084,0.042072531580924985,0.0
+edit_rate,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,57,Q3,0.5565434565434566,24.746082305908203,0.027223861217498778,0.0
+edit_rate,argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,57,Q4 (high),0.8859451659451659,24.358938217163086,0.02047838270664215,0.0
+edit_rate,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,59,control,,25.304649353027344,0.0,0.0
+edit_rate,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,59,Q1 (low),0.10416675916675917,22.50487518310547,0.02663646141688029,0.00078064012490242
+edit_rate,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,59,Q2,0.3570087650444793,23.85873031616211,0.03376053060804095,0.0
+edit_rate,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,59,Q3,0.5596196596196596,22.106609344482422,0.012165151891254243,0.0009157509157509158
+edit_rate,argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,59,Q4 (high),0.9039285714285714,22.797849655151367,0.014195467744554793,0.0
+edit_rate,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,55,control,,22.343210220336914,0.0,0.012273540995345503
+edit_rate,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,55,Q1 (low),0.05178571428571428,23.778926849365234,0.05749836564064026,0.012113015017327686
+edit_rate,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,55,Q2,0.3143939393939394,26.127506256103516,0.08306889023099627,0.019455461109931658
+edit_rate,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,55,Q3,0.6639118457300275,25.0579776763916,0.0720004950250898,0.03847418997928148
+edit_rate,argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,55,Q4 (high),0.966295609152752,24.702804565429688,0.07015138864517212,0.002704081632653061
+edit_rate,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,63,control,,22.05455780029297,0.0,0.04417625769353168
+edit_rate,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,63,Q1 (low),0.06796218487394957,23.081533432006836,0.037676874134275645,0.07680445023985828
+edit_rate,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,63,Q2,0.33163225663225665,24.23925018310547,0.04413237836625841,0.06455555036335259
+edit_rate,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,63,Q3,0.5709401709401709,22.604427337646484,0.021594961484273274,0.03909677783264969
+edit_rate,argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,63,Q4 (high),0.9137598629195268,21.682960510253906,0.01884619394938151,0.047847968303449145
+edit_rate,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,control,,23.391767501831055,0.0,0.03385784290122058
+edit_rate,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,Q1 (low),0.09577320827320827,23.872169494628906,0.032673824578523636,0.032862690280817675
+edit_rate,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,Q2,0.43579545454545454,24.20679473876953,0.037335850298404694,0.04414668939609742
+edit_rate,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,Q3,0.6441321499013806,23.254150390625,0.032579924911260605,0.04457039086753478
+edit_rate,argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,Q4 (high),0.904920634920635,22.697946548461914,0.02598712593317032,0.022140934811906272
+edit_rate,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,58,control,,21.01087188720703,0.0,0.014942217743941883
+edit_rate,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,58,Q1 (low),0.01020408163265306,23.19277000427246,0.05996555631810969,0.007474501508592418
+edit_rate,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,58,Q2,0.3770818070818071,24.930126190185547,0.06841916929591786,0.007438610240334378
+edit_rate,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,58,Q3,0.6777899877899878,22.319398880004883,0.0508663383397189,0.014533730158730157
+edit_rate,argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,58,Q4 (high),0.9529102550110953,21.466524124145508,0.036381255496631966,0.010629201215016261
+edit_rate,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,61,control,,27.492816925048828,0.0,0.0006578947368421052
+edit_rate,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,61,Q1 (low),0.05052910052910053,28.99485206604004,0.07252153158187866,0.001973684210526316
+edit_rate,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,61,Q2,0.31650207431457433,29.395137786865234,0.07361902296543121,0.0022086466165413534
+edit_rate,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,61,Q3,0.5786983131810718,29.357284545898438,0.07777974009513855,0.0
+edit_rate,argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,61,Q4 (high),0.9285677083333334,26.106836318969727,0.055103451013565063,0.0018019480519480518
+edit_rate,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,64,control,,31.714677810668945,0.0,0.0
+edit_rate,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,64,Q1 (low),0.025173611111111112,29.110713958740234,0.022044353625353647,0.0
+edit_rate,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,64,Q2,0.23383968972204267,29.933242797851562,0.044060787733863384,0.0
+edit_rate,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,64,Q3,0.5881969881969882,32.92155456542969,0.06407969138201546,0.0
+edit_rate,argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,64,Q4 (high),0.8983980429292929,25.952835083007812,0.00977555092643289,0.0009191176470588235
+edit_rate,creative,bee,99,control,,30.29710578918457,0.0,0.001
+edit_rate,creative,bee,99,Q1 (low),0.12733153210425938,33.39030838012695,0.06263995170593262,0.005
+edit_rate,creative,bee,99,Q2,0.2947215249736258,31.825838088989258,0.04008461038271586,0.0026666666666666666
+edit_rate,creative,bee,99,Q3,0.4670733401936409,31.538328170776367,0.04831374883651733,0.004333333333333333
+edit_rate,creative,bee,99,Q4 (high),0.7368424504788141,32.70686340332031,0.03771756490071614,0.0033333333333333335
+edit_rate,creative,obama,96,control,,41.76900863647461,0.0,0.0
+edit_rate,creative,obama,96,Q1 (low),0.05982304460245637,41.29833984375,0.0403842568397522,0.0
+edit_rate,creative,obama,96,Q2,0.2694632309251686,38.58027267456055,0.03391950527826945,0.0
+edit_rate,creative,obama,96,Q3,0.4548200658707905,41.49292755126953,0.031064615646998087,0.0
+edit_rate,creative,obama,96,Q4 (high),0.7436849700007595,38.71577453613281,0.030760186910629272,0.0
+edit_rate,creative,pig,89,control,,24.232667922973633,0.0,0.0414860892640722
+edit_rate,creative,pig,89,Q1 (low),0.09587434913046101,27.53633689880371,0.06841631730397542,0.08604663159158851
+edit_rate,creative,pig,89,Q2,0.33226802437328756,29.44247817993164,0.08858447869618734,0.1177430786255482
+edit_rate,creative,pig,89,Q3,0.6259940676607343,29.445812225341797,0.0857986867427826,0.08164305175276977
+edit_rate,creative,pig,89,Q4 (high),0.9317422343738133,27.64261245727539,0.06856759587923686,0.10349678017702289
+edit_rate,creative,sideeffect,98,control,,39.81851577758789,0.0,0.0
+edit_rate,creative,sideeffect,98,Q1 (low),0.007326007326007326,37.58559799194336,0.037654447555541995,0.0
+edit_rate,creative,sideeffect,98,Q2,0.15393419080919082,36.92695617675781,0.03094451626141866,0.0
+edit_rate,creative,sideeffect,98,Q3,0.31860913982818007,39.163875579833984,0.054576788345972696,0.0
+edit_rate,creative,sideeffect,98,Q4 (high),0.7135848278705422,33.83259963989258,0.015269315242767334,0.0

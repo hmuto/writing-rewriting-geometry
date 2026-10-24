@@ -1,0 +1,101 @@
+genre,prompt,n,cond,oor,deff,leak,rad
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",55,control,0.0,30.436477661132812,0.0,1.0255167573690414
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",55,h<0.2 (LLM text),0.0,31.608322143554688,0.009879523515701294,1.0254786044359208
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",55,h 0.2-0.5 (light edit),0.0,32.66788101196289,0.031082385778427125,1.0230899542570113
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",55,h 0.5-0.8 (heavy edit),0.0,31.023971557617188,0.022159934043884277,1.0048545181751252
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",55,h>0.8 (human text),0.0,34.343711853027344,0.04301486313343048,1.0446571230888366
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,79,control,0.0,37.42046356201172,0.0,1.0136967837810515
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,79,h<0.2 (LLM text),0.0,35.98780059814453,-0.002281510829925537,1.0148736506700515
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,79,h 0.2-0.5 (light edit),0.0,38.19138717651367,0.026033675670623778,1.0027372598648072
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,79,h 0.5-0.8 (heavy edit),0.0,38.18556213378906,0.0423228532075882,1.0248960077762603
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,79,h>0.8 (human text),0.0,40.15397262573242,0.03653351068496704,1.0153628498315812
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,63,control,0.0,33.62886047363281,0.0,1.0212408393621444
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,63,h<0.2 (LLM text),0.0,33.238311767578125,0.005389294028282166,1.0078931123018264
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,63,h 0.2-0.5 (light edit),0.0,36.29450607299805,0.04205354452133179,1.0263388693332671
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,63,h 0.5-0.8 (heavy edit),0.0,35.664039611816406,0.050117427110672,1.0262566804885864
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,63,h>0.8 (human text),0.0,36.570716857910156,0.05042636096477508,1.033186709880829
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,87,control,0.0,38.4285774230957,0.0,1.0140199452638625
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,87,h<0.2 (LLM text),0.0,38.13044357299805,0.0027502596378326414,1.0112481862306595
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,87,h 0.2-0.5 (light edit),0.0,37.29447937011719,0.018824419379234313,1.0063902944326402
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,87,h 0.5-0.8 (heavy edit),0.0,40.189979553222656,0.01724444329738617,0.994762071967125
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,87,h>0.8 (human text),0.0,39.63337326049805,0.031272861361503604,1.0169284909963607
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,51,control,0.00196078431372549,24.96364974975586,0.0,1.028266817331314
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,51,h<0.2 (LLM text),0.0,25.860645294189453,0.01021374762058258,1.0346869945526123
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,51,h 0.2-0.5 (light edit),0.0,29.052200317382812,0.06055920720100403,1.030941966176033
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,51,h 0.5-0.8 (heavy edit),0.0,28.530675888061523,0.0617548406124115,1.0099478483200073
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,51,h>0.8 (human text),0.0,30.958251953125,0.08270787298679352,1.0683129012584687
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,50,control,0.0,27.464290618896484,0.0,1.0214792013168335
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,50,h<0.2 (LLM text),0.001,27.733556747436523,-0.0004523873329162598,1.007102632522583
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,50,h 0.2-0.5 (light edit),0.0,28.667255401611328,0.028826963901519776,0.9806756317615509
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,50,h 0.5-0.8 (heavy edit),0.0,27.79237937927246,0.02535156309604645,0.9985978007316589
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,50,h>0.8 (human text),0.0,28.898571014404297,0.031289488077163696,1.0401724427938461
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,control,0.0017241379310344827,29.174657821655273,0.0,1.0181819558143617
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,h<0.2 (LLM text),0.002586206896551724,30.390239715576172,0.011389753222465515,1.0228857547044754
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,h 0.2-0.5 (light edit),0.0034482758620689655,30.610706329345703,0.042921310663223265,0.9861082941293716
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,h 0.5-0.8 (heavy edit),0.002586206896551724,31.386133193969727,0.037700879573822024,1.0204794615507127
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,58,h>0.8 (human text),0.008620689655172414,31.507427215576172,0.04556472897529602,1.0497988760471344
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,78,control,0.005128205128205128,28.603008270263672,0.0,1.0092187851667405
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,78,h<0.2 (LLM text),0.0019230769230769232,30.116352081298828,0.0076834350824356076,1.02551808655262
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,78,h 0.2-0.5 (light edit),0.0019230769230769232,30.5523681640625,0.017999249696731567,0.994914847612381
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,78,h 0.5-0.8 (heavy edit),0.001282051282051282,31.905529022216797,0.0426609605550766,0.9991369277238846
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,78,h>0.8 (human text),0.005128205128205128,35.50025177001953,0.06443197131156922,1.0404436886310577
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,control,0.001,37.25678253173828,0.0,1.0098883777856826
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,h<0.2 (LLM text),0.0,44.161598205566406,0.02127380669116974,1.0470933020114899
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,h 0.2-0.5 (light edit),0.0005,46.33013916015625,0.08016596734523773,1.0470340967178344
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,h 0.5-0.8 (heavy edit),0.0,47.30525207519531,0.08652458488941192,1.0368273913860322
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,100,h>0.8 (human text),0.0005,51.40886306762695,0.10314817726612091,1.058157742023468
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,61,control,0.0,36.673240661621094,0.0,1.0196424394845962
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,61,h<0.2 (LLM text),0.0,37.584327697753906,0.009401074051856995,1.0273618340492248
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,61,h 0.2-0.5 (light edit),0.0,35.862422943115234,0.021388122439384462,0.9985640436410904
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,61,h 0.5-0.8 (heavy edit),0.0,33.62886428833008,0.03376414179801941,0.9971382200717926
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,61,h>0.8 (human text),0.0,38.44644546508789,0.03886904418468475,1.0237091809511185
+creative,bee,100,control,0.0,40.74737548828125,0.0,1.0138332694768906
+creative,bee,100,h<0.2 (LLM text),0.0,40.25482940673828,-0.0029880523681640623,1.0049513578414917
+creative,bee,100,h 0.2-0.5 (light edit),0.0,39.57899856567383,0.0070801258087158205,0.966431200504303
+creative,bee,100,h 0.5-0.8 (heavy edit),0.0,35.28036880493164,0.006383180618286133,0.9571440130472183
+creative,bee,100,h>0.8 (human text),0.0,45.162010192871094,0.04172146618366242,1.0188374936580658
+creative,dad,100,control,0.0,42.68665313720703,0.0,1.0095241278409959
+creative,dad,100,h<0.2 (LLM text),0.0,42.50478744506836,-0.0050092250108718876,1.0133880496025085
+creative,dad,100,h 0.2-0.5 (light edit),0.0,44.82677459716797,0.02960924804210663,1.0047712057828904
+creative,dad,100,h 0.5-0.8 (heavy edit),0.0,40.701290130615234,0.011150732636451721,1.0016195893287658
+creative,dad,100,h>0.8 (human text),0.0,45.28110885620117,0.025107571482658388,1.0126746505498887
+creative,isolation,71,control,0.0,42.575721740722656,0.0,1.016940602660179
+creative,isolation,71,h<0.2 (LLM text),0.0,42.412818908691406,-0.0031035900115966796,1.014049157500267
+creative,isolation,71,h 0.2-0.5 (light edit),0.0,41.617103576660156,0.016806092858314515,1.0049411207437515
+creative,isolation,71,h 0.5-0.8 (heavy edit),0.0,42.6236457824707,0.023922276496887208,0.9992772966623307
+creative,isolation,71,h>0.8 (human text),0.0,44.893577575683594,0.02784445881843567,1.0185889303684235
+creative,mana,89,control,0.0,44.38068389892578,0.0,1.0131475627422333
+creative,mana,89,h<0.2 (LLM text),0.0,43.2391471862793,-0.0005079716444015503,1.0025591820478439
+creative,mana,89,h 0.2-0.5 (light edit),0.0,42.77224349975586,0.01967456340789795,1.004760095477104
+creative,mana,89,h 0.5-0.8 (heavy edit),0.0,38.496334075927734,0.007548102736473083,0.9835961192846299
+creative,mana,89,h>0.8 (human text),0.0,45.825294494628906,0.03343977928161621,1.0069847404956818
+creative,mattdamon,100,control,0.0,40.234920501708984,0.0,1.0070519506931306
+creative,mattdamon,100,h<0.2 (LLM text),0.0,39.729888916015625,-0.00014685690402984619,1.0011434823274612
+creative,mattdamon,100,h 0.2-0.5 (light edit),0.0,40.47233581542969,0.0105571448802948,0.9851297736167908
+creative,mattdamon,100,h 0.5-0.8 (heavy edit),0.0,39.540321350097656,0.008501064777374268,0.9865778535604477
+creative,mattdamon,100,h>0.8 (human text),0.0,44.21979522705078,0.02814110815525055,1.005947270989418
+creative,obama,100,control,0.0,50.06241226196289,0.0,1.0108275324106217
+creative,obama,100,h<0.2 (LLM text),0.0,49.22065353393555,0.0061864137649536135,1.0119385540485382
+creative,obama,100,h 0.2-0.5 (light edit),0.0,45.41236114501953,0.01339854896068573,1.003429964184761
+creative,obama,100,h 0.5-0.8 (heavy edit),0.0,36.65193176269531,0.018928611278533937,0.9837231040000916
+creative,obama,100,h>0.8 (human text),0.0,52.37957000732422,0.03354199230670929,1.021165907382965
+creative,pig,100,control,0.0075000000000000015,33.3915901184082,0.0,1.015664178133011
+creative,pig,100,h<0.2 (LLM text),0.0075000000000000015,35.02819061279297,0.024622437357902528,1.014338606595993
+creative,pig,100,h 0.2-0.5 (light edit),0.003999999999999999,40.212318420410156,0.060253164172172545,0.9880887746810914
+creative,pig,100,h 0.5-0.8 (heavy edit),0.0,37.76433181762695,0.05764345526695251,0.9620205193758011
+creative,pig,100,h>0.8 (human text),0.012,41.676025390625,0.07969989776611328,1.0514499068260192
+creative,reincarnation,100,control,0.0,52.33441925048828,0.0,1.0096141815185546
+creative,reincarnation,100,h<0.2 (LLM text),0.0,49.97382354736328,-0.01135762631893158,1.0063484221696855
+creative,reincarnation,100,h 0.2-0.5 (light edit),0.0,48.23678207397461,0.005796223878860474,1.0100125163793563
+creative,reincarnation,100,h 0.5-0.8 (heavy edit),0.0,49.79017639160156,0.006328848004341125,1.0069428712129593
+creative,reincarnation,100,h>0.8 (human text),0.0,55.024818420410156,0.020187973976135254,1.008309245109558
+creative,shapeshifter,70,control,0.0,41.588539123535156,0.0,1.0152575612068175
+creative,shapeshifter,70,h<0.2 (LLM text),0.0,42.1685791015625,0.003739619255065918,1.0045703440904616
+creative,shapeshifter,70,h 0.2-0.5 (light edit),0.0,43.482261657714844,0.03506984114646912,1.0113682091236114
+creative,shapeshifter,70,h 0.5-0.8 (heavy edit),0.0,40.753257751464844,0.024487990140914916,1.0066165566444396
+creative,shapeshifter,70,h>0.8 (human text),0.0,44.51837921142578,0.03452356159687042,1.0145144551992415
+creative,sideeffect,75,control,0.0,43.25300216674805,0.0,1.0151180446147918
+creative,sideeffect,75,h<0.2 (LLM text),0.0,43.2707633972168,0.007998019456863403,1.0143050849437714
+creative,sideeffect,75,h 0.2-0.5 (light edit),0.0,41.05698776245117,0.02186265289783478,1.0047721922397614
+creative,sideeffect,75,h 0.5-0.8 (heavy edit),0.0,37.54497528076172,0.003317028284072876,0.996706274151802
+creative,sideeffect,75,h>0.8 (human text),0.0,43.41804885864258,0.024472779035568236,1.012453120946884

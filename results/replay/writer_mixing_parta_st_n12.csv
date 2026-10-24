@@ -1,0 +1,71 @@
+genre,prompt,n,variant,n_sess,n_wrt,deff,leak
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",12,control,31,0,9.221856,0.0
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",12,mixed,31,0,9.335757,0.02193750262260437
+argumentative,"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",12,1session,31,0,8.985573,0.046436660289764405
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,12,control,27,0,9.117572,0.0
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,12,mixed,27,0,8.957225,0.006607673168182373
+argumentative,How Do You Think Technology Affects Dating? Have you had any experience with dat,12,1session,27,0,8.325708,0.019811233282089235
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,12,control,30,0,8.988855,0.0
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,12,mixed,30,0,9.044933,0.03378213524818421
+argumentative,How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,12,1session,30,0,8.251805,0.03947175860404968
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,12,control,23,0,8.802055,0.0
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,12,mixed,23,0,8.580343,0.01442822813987732
+argumentative,Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,12,1session,23,0,7.950366,0.025997525453567503
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,12,control,28,0,8.302304,0.0
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,12,mixed,28,0,8.937143,0.06357637763023377
+argumentative,Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,12,1session,28,0,8.271828,0.08570669174194336
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,12,control,26,0,8.056927,0.0
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,12,mixed,26,0,8.254756,0.03625624656677246
+argumentative,Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,12,1session,26,0,8.033055,0.04992032051086426
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,12,control,21,0,8.194516,0.0
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,12,mixed,21,0,8.411121,0.030264497995376588
+argumentative,Should College Athletes Be Paid? Do you think college athletes should be paid? O,12,1session,21,0,8.142413,0.0508695912361145
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,12,control,25,0,8.135959,0.0
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,12,mixed,25,0,8.479769,0.05394866824150085
+argumentative,Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,12,1session,25,0,8.231553,0.06745276212692261
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,12,control,29,0,8.891309,0.0
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,12,mixed,29,0,9.277662,0.06369128346443176
+argumentative,What Are the Most Important Things Students Should Learn in School? In your opin,12,1session,29,0,8.4487295,0.09612787723541259
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,12,control,28,0,9.455341,0.0
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,12,mixed,28,0,9.207797,0.008430629968643188
+argumentative,What Stereotypical Characters Make You Cringe? What stereotypical characters in ,12,1session,28,0,8.542369,0.046164636611938474
+creative,bee,12,control,62,29,8.602449,0.0
+creative,bee,12,mixed,62,29,8.874346,0.038767824172973635
+creative,bee,12,1session,62,29,8.48403,0.06252907156944275
+creative,bee,12,1writer,62,29,8.496959,0.05058990240097046
+creative,dad,12,control,67,30,9.056797,0.0
+creative,dad,12,mixed,67,30,9.062072,0.025043728351593016
+creative,dad,12,1session,67,30,8.7246,0.07391729354858398
+creative,dad,12,1writer,67,30,8.578275,0.04709291815757752
+creative,isolation,12,control,55,29,9.516013,0.0
+creative,isolation,12,mixed,55,29,9.690143,0.03613742470741272
+creative,isolation,12,1session,55,29,8.692368,0.058050304651260376
+creative,isolation,12,1writer,55,29,8.983523,0.05825409531593323
+creative,mana,12,control,57,34,9.398942,0.0
+creative,mana,12,mixed,57,34,9.409292,0.03537721395492554
+creative,mana,12,1session,57,34,8.367439,0.08748326420783997
+creative,mana,12,1writer,57,34,8.5005455,0.06626168131828308
+creative,mattdamon,12,control,60,30,9.097782,0.0
+creative,mattdamon,12,mixed,60,30,9.18039,0.026619019508361815
+creative,mattdamon,12,1session,60,30,8.350855,0.04100924372673034
+creative,mattdamon,12,1writer,60,30,8.561708,0.035947943925857546
+creative,obama,12,control,55,30,9.57182,0.0
+creative,obama,12,mixed,55,30,9.74439,0.03696302652359009
+creative,obama,12,1session,55,30,8.722037,0.02476270079612732
+creative,obama,12,1writer,55,30,9.3214,0.04674617886543274
+creative,pig,12,control,45,26,8.253592,0.0
+creative,pig,12,mixed,45,26,8.61051,0.07674615025520325
+creative,pig,12,1session,45,26,7.954959,0.08508899807929993
+creative,pig,12,1writer,45,26,8.248612,0.09112669348716736
+creative,reincarnation,12,control,75,35,9.713678,0.0
+creative,reincarnation,12,mixed,75,35,9.800031,0.035812244415283204
+creative,reincarnation,12,1session,75,35,8.816279,0.0747017252445221
+creative,reincarnation,12,1writer,75,35,9.040742,0.05959358334541321
+creative,shapeshifter,12,control,66,35,9.335758,0.0
+creative,shapeshifter,12,mixed,66,35,9.556415,0.04788018465042114
+creative,shapeshifter,12,1session,66,35,8.706286,0.06962540984153748
+creative,shapeshifter,12,1writer,66,35,8.750036,0.04561322808265686
+creative,sideeffect,12,control,57,32,9.548585,0.0
+creative,sideeffect,12,mixed,57,32,9.541858,0.0311348295211792
+creative,sideeffect,12,1session,57,32,8.75232,0.059743897914886476
+creative,sideeffect,12,1writer,57,32,8.831612,0.04862995982170105

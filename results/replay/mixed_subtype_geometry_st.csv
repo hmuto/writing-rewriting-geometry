@@ -1,0 +1,95 @@
+prompt,genre,subtype,n,sub_ctrl,human_ctrl,human_sub
+"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",argumentative,completion,58,-1.2172577381134033,0.36133870482444763,1.5785965
+"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",argumentative,interleaved,63,-2.4740052223205566,0.47929972410202026,2.953305
+"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",argumentative,all_mixed,178,-9.816621780395508,1.8641265630722046,11.680748
+"Are We Being Bad Citizens If We Don't Keep Up With the News? In your opinion, ar",argumentative,interleaved_minus_completion,58,,,-1.0542098
+How Do You Think Technology Affects Dating? Have you had any experience with dat,argumentative,completion,122,-3.5322022438049316,-1.0641952753067017,2.468007
+How Do You Think Technology Affects Dating? Have you had any experience with dat,argumentative,interleaved,63,-4.8860321044921875,-0.8997123837471008,3.9863198
+How Do You Think Technology Affects Dating? Have you had any experience with dat,argumentative,all_mixed,200,-9.247928619384766,-0.9388492703437805,8.309079
+How Do You Think Technology Affects Dating? Have you had any experience with dat,argumentative,interleaved_minus_completion,63,,,-2.2492814
+How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,argumentative,completion,109,-0.3872400224208832,-1.3259912729263306,-0.9387512
+How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,argumentative,append,26,-1.2096993923187256,-0.19845733046531677,1.011242
+How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,argumentative,interleaved,50,-1.6114667654037476,-1.2073568105697632,0.40410995
+How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,argumentative,all_mixed,200,-3.7505390644073486,-0.18702182173728943,3.5635173
+How Worried Should We Be About Screen Time During the Pandemic? The coronavirus ,argumentative,interleaved_minus_completion,50,,,-1.1690551
+Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,argumentative,completion,155,-2.8710737228393555,-2.385930061340332,0.48514366
+Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,argumentative,append,26,-0.6484735608100891,-0.03385348245501518,0.6146201
+Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,argumentative,interleaved,55,-3.1337904930114746,-1.9665149450302124,1.1672755
+Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,argumentative,all_mixed,200,-4.977387428283691,-2.926818609237671,2.0505688
+Is It Selfish to Pursue Risky Sports Like Extreme Mountain Climbing? Some sports,argumentative,interleaved_minus_completion,55,,,-1.6566864
+Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,argumentative,completion,68,0.4892041087150574,3.523390531539917,3.0341864
+Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,argumentative,interleaved,49,-0.7824292182922363,3.082094192504883,3.8645234
+Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,argumentative,all_mixed,146,-1.0907467603683472,6.497868537902832,7.5886154
+Is It Wrong to Focus on Animal Welfare When Humans Are Suffering? Would you be s,argumentative,interleaved_minus_completion,49,,,-1.743516
+Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,argumentative,completion,71,-4.200342655181885,0.5134283304214478,4.713771
+Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,argumentative,interleaved,52,-1.7808691263198853,0.95305335521698,2.7339225
+Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,argumentative,all_mixed,168,-4.6175217628479,1.3533122539520264,5.970834
+Is Listening to a Book Just as Good as Reading It? Do you listen to audiobooks? ,argumentative,interleaved_minus_completion,52,,,0.9915911
+Should College Athletes Be Paid? Do you think college athletes should be paid? O,argumentative,completion,81,-0.505561351776123,1.522926926612854,2.0284882
+Should College Athletes Be Paid? Do you think college athletes should be paid? O,argumentative,interleaved,50,-2.304157257080078,0.6583380699157715,2.9624953
+Should College Athletes Be Paid? Do you think college athletes should be paid? O,argumentative,all_mixed,173,-4.049412727355957,3.1641182899475098,7.213531
+Should College Athletes Be Paid? Do you think college athletes should be paid? O,argumentative,interleaved_minus_completion,50,,,-1.3079135
+Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,argumentative,completion,97,-1.054101586341858,3.5695812702178955,4.623683
+Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,argumentative,interleaved,51,-2.1681582927703857,2.2688148021698,4.436973
+Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,argumentative,all_mixed,192,-2.8456974029541016,4.442062854766846,7.2877603
+Should Schools Provide Free Pads and Tampons? Have you ever experienced period s,argumentative,interleaved_minus_completion,51,,,-1.4466021
+What Are the Most Important Things Students Should Learn in School? In your opin,argumentative,completion,114,2.463261365890503,5.950264930725098,3.4870036
+What Are the Most Important Things Students Should Learn in School? In your opin,argumentative,append,25,-1.5030494928359985,1.1289844512939453,2.6320338
+What Are the Most Important Things Students Should Learn in School? In your opin,argumentative,interleaved,84,0.044011782854795456,5.031979560852051,4.987968
+What Are the Most Important Things Students Should Learn in School? In your opin,argumentative,all_mixed,200,-0.2856416702270508,8.005704879760742,8.291347
+What Are the Most Important Things Students Should Learn in School? In your opin,argumentative,interleaved_minus_completion,84,,,-2.2314038
+What Stereotypical Characters Make You Cringe? What stereotypical characters in ,argumentative,completion,81,-5.109752655029297,-0.08501072227954865,5.024742
+What Stereotypical Characters Make You Cringe? What stereotypical characters in ,argumentative,append,25,-1.3260443210601807,0.05569019168615341,1.3817345
+What Stereotypical Characters Make You Cringe? What stereotypical characters in ,argumentative,interleaved,57,-4.171391487121582,0.061446093022823334,4.2328377
+What Stereotypical Characters Make You Cringe? What stereotypical characters in ,argumentative,all_mixed,178,-6.9177751541137695,-0.6833568811416626,6.2344184
+What Stereotypical Characters Make You Cringe? What stereotypical characters in ,argumentative,interleaved_minus_completion,57,,,-0.879811
+bee,creative,completion,139,-1.080129861831665,3.5551352500915527,4.6352654
+bee,creative,append,87,-1.7635090351104736,2.8223276138305664,4.5858364
+bee,creative,interleaved,91,1.2782634496688843,2.470643997192383,1.1923805
+bee,creative,all_mixed,200,-2.6774888038635254,4.961938381195068,7.639427
+bee,creative,interleaved_minus_completion,91,,,2.0960684
+dad,creative,completion,95,1.8861780166625977,1.1409553289413452,-0.7452227
+dad,creative,append,60,-4.30988073348999,1.1518874168395996,5.461768
+dad,creative,interleaved,75,-4.3804216384887695,-0.1593494415283203,4.221072
+dad,creative,all_mixed,200,-2.3165485858917236,1.3314844369888306,3.6480331
+dad,creative,interleaved_minus_completion,75,,,-5.373716
+isolation,creative,completion,85,-2.4038825035095215,1.8227285146713257,4.226611
+isolation,creative,append,47,-0.9138175249099731,0.49928873777389526,1.4131062
+isolation,creative,interleaved,45,-1.8124812841415405,1.5788421630859375,3.3913236
+isolation,creative,all_mixed,177,-3.1348681449890137,3.7403221130371094,6.8751903
+isolation,creative,interleaved_minus_completion,45,,,-1.2088963
+mana,creative,completion,121,-1.114344835281372,2.143261671066284,3.2576065
+mana,creative,append,34,-0.8926312327384949,0.4580429196357727,1.3506742
+mana,creative,interleaved,50,-2.552870273590088,0.8705439567565918,3.4234142
+mana,creative,all_mixed,200,-0.8687885403633118,2.4196627140045166,3.2884512
+mana,creative,interleaved_minus_completion,50,,,-2.286322
+mattdamon,creative,completion,103,-1.8603641986846924,1.3021188974380493,3.1624832
+mattdamon,creative,append,65,-4.276579856872559,0.8957728147506714,5.172353
+mattdamon,creative,interleaved,69,-1.2930305004119873,1.9461643695831299,3.2391949
+mattdamon,creative,all_mixed,200,-3.9523842334747314,2.590925693511963,6.54331
+mattdamon,creative,interleaved_minus_completion,69,,,0.14328642
+obama,creative,completion,105,-2.240798234939575,0.5434368252754211,2.784235
+obama,creative,append,67,-4.501913070678711,0.6105409860610962,5.112454
+obama,creative,interleaved,60,-6.147474765777588,-0.40442028641700745,5.7430544
+obama,creative,all_mixed,200,-17.647377014160156,3.2700111865997314,20.917389
+obama,creative,interleaved_minus_completion,60,,,-4.3848877
+pig,creative,completion,86,4.468115329742432,4.849036693572998,0.38092136
+pig,creative,append,81,1.824639081954956,4.729065895080566,2.9044268
+pig,creative,interleaved,71,6.6508469581604,4.327775478363037,-2.3230715
+pig,creative,all_mixed,200,4.317907333374023,7.185089111328125,2.8671818
+pig,creative,interleaved_minus_completion,71,,,2.5676787
+reincarnation,creative,completion,123,-7.463693141937256,2.6881754398345947,10.151869
+reincarnation,creative,append,52,-1.8210384845733643,1.6606025695800781,3.481641
+reincarnation,creative,interleaved,49,-1.632794737815857,0.8455756902694702,2.4783704
+reincarnation,creative,all_mixed,200,-8.15985107421875,3.695580244064331,11.855432
+reincarnation,creative,interleaved_minus_completion,49,,,1.1090418
+shapeshifter,creative,completion,72,-0.9539507031440735,1.7234398126602173,2.6773906
+shapeshifter,creative,append,48,0.2852211892604828,0.8375145196914673,0.5522933
+shapeshifter,creative,interleaved,25,-3.1566314697265625,0.4199255108833313,3.576557
+shapeshifter,creative,all_mixed,150,-1.0715843439102173,3.387824296951294,4.4594088
+shapeshifter,creative,interleaved_minus_completion,25,,,-2.915183
+sideeffect,creative,completion,81,-2.205949544906616,0.6090167760848999,2.8149662
+sideeffect,creative,append,34,-5.198348522186279,-0.06323137134313583,5.135117
+sideeffect,creative,interleaved,50,-1.5306627750396729,-0.2652323842048645,1.2654305
+sideeffect,creative,all_mixed,170,-8.382673263549805,-0.6029308438301086,7.7797422
+sideeffect,creative,interleaved_minus_completion,50,,,0.37336046
