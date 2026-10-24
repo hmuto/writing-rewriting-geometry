@@ -2,7 +2,7 @@
 
 Code and derived data for:
 
-> "Distinct Geometric Signatures of Writing and Rewriting in AI-Assisted Text." (Under review, 2026.)
+> "Revising AI Suggestions Is Not Composing: Dimensional Diversity in Human-AI Co-Writing." (Under review, 2026.)
 
 The paper replays the edit logs of the CoAuthor corpus (1,447 human–GPT-3
 co-writing sessions), classifies each final sentence by its share of
