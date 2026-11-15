@@ -31,11 +31,11 @@ def save(fig,name):
     plt.close(fig)
 
 # Covariance ellipses have the same total variance (sum of squared axes).
-# Rewriting changes orientation; writing makes the spectrum more balanced.
+# (b) changes only the orientation; (c) changes only how evenly variance is spread.
 fig,axs=plt.subplots(1,3,figsize=(8.0,3.0))
 for ax,title,angle,axes,summary in zip(axs,
         ['(a) Reference','(b) Different orientation','(c) Higher dimension'],
-        [0,30,30],[(4.6,1.8),(4.6,1.8),(4.0,np.sqrt(4.6**2+1.8**2-4**2))],
+        [0,30,0],[(4.6,1.8),(4.6,1.8),(4.0,np.sqrt(4.6**2+1.8**2-4**2))],
         ['Variance concentrated\nin one direction',
          'Direction changes\nConcentration unchanged',
          'Variance shared\nmore evenly']):

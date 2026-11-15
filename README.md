@@ -2,7 +2,7 @@
 
 Code and derived data for:
 
-> "Revising AI Suggestions Is Not Composing: Dimensional Diversity in Human-AI Co-Writing." (Under review, 2026.)
+> "Revised AI Suggestions and Composed Sentences Differ in Dimensional Diversity: An Exploratory Analysis of Human-AI Co-Writing." (Accepted for publication in *International Journal of Advanced Computer Science and Applications (IJACSA)*, 2026.)
 
 The paper replays the edit logs of the CoAuthor corpus (1,447 human–GPT-3
 co-writing sessions), classifies each final sentence by its share of
